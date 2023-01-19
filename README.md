@@ -15,7 +15,7 @@
 
 <p align="center">
 
-<img align="left" width="47%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=ex-rnd&theme=outrun&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats-ruby-two.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />  
   
@@ -23,7 +23,7 @@
 
 ## ❄️ Summary
 
-<p align="center"> <h3 align="center">An inspired machine learning engineer from Kenya.</h3> </p>
+<p align="center"> <h3 align="center">An inspired machine learning engineer with a soft spot for deep learning 💀.</h3> </p>
 
 <p align="center"> </p>
 
@@ -48,7 +48,7 @@
 - ⚡ Fun fact **"Ears that don't hear will be chopped off!"**
 - 
 
-## 🛠🔵 Connect with me:
+## 🔵 Connect with me:
   
 <p align="center">
 <a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a>
@@ -96,7 +96,7 @@
     	<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-   	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+   	<!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
     	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
@@ -107,9 +107,9 @@
 	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a>
+    	<!-- <a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a> -->
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
+    	<!-- <a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a> -->
     	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
@@ -126,7 +126,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
+## 🏍️ Boy Scout Rule 
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
