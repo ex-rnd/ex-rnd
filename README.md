@@ -1,11 +1,13 @@
-[![MasterHead](https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif)](https://rishavchanda.io)
+<p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
+
+
 
 <h1 align="center">Hi 👋, I'm James Kilonzo</h1>
 <h3 align="center">An inspired machine learning engineer from Nairobi, Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ex-rnd&label=Profile%20views&color=0e75b6&style=flat" alt="ex-rnd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" /></a> </p>
+<p align="center"> <img src="https://media.giphy.com/media/heCTtruVPl8OH8DyHd/giphy-downsized-large.gif" alt="ex-rnd" /> </p>
 
 - 🔭 I’m currently working on [Spotlit](https://github.com/ex-rnd/Spotlit)
 
