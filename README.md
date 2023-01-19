@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm James Kilonzo</h1>
 <h3 align="center">An inspired machine learning engineer from Nairobi, Kenya.</h3>
