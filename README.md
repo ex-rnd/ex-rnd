@@ -21,6 +21,17 @@
   
 </p>
 
+	
+## ⚡ Top GitHub Directories
+<br/>
+<p align="center">
+	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+
+</p>
+
+
 ## ❄️ Summary
 
 <p align="center"> <h3 align="center">An inspired machine learning engineer with a soft spot for deep learning 💀.</h3> </p>
@@ -126,7 +137,7 @@
 
 ---
 
-## 🏍️ Boy Scout Rule 
+## 🏍️Boy Scout Rule 
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 
