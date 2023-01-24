@@ -53,9 +53,9 @@
   
 - 📫 How to reach me **ever.ex.rnd@gmail.com**
 
-- 📄 Know about my experiences [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
+- 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
   
-- 👨‍💻 All of my projects are available at [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
+- 👨‍💻 Some of my projects are available at [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
 
 - ⚡ Fun fact **"Ears that don't hear will be chopped off!"**
 - 
