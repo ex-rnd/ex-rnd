@@ -25,7 +25,7 @@
 ## ⚡ Top GitHub Directories
 <br/>
 <p align="center">
-	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=ex-rnd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 
 
@@ -39,13 +39,15 @@
 <p align="center"> 
 
 ### Final Year Project (B.Eng in Electrical and Telecommunication)
-
+<p align="center">
 https://user-images.githubusercontent.com/121459880/214195780-3ae194e8-55c7-4637-89f0-6e8f47b90b60.mp4
-
+</p>
+<p align="center">
 ![IMG_20220604_101330](https://user-images.githubusercontent.com/121459880/214196144-9d1a954c-9f34-4ede-8eb4-41897e895f19.jpg)
-
+</p>
+<p align"center"
 https://user-images.githubusercontent.com/121459880/214196760-5df3ae53-ed89-446b-ac61-ae772447fe9d.mp4
-
+</p>
 
 
 </p>
