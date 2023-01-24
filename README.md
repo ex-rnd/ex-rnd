@@ -36,7 +36,6 @@
 
 <p align="center"> <h3 align="center">An inspired machine learning engineer with a soft spot for deep learning 💀.</h3> </p>
 
-<p align="center"> 
 
 ### Final Year Project (B.Eng in Electrical and Telecommunication)
 <p align="center">
@@ -48,11 +47,6 @@ https://user-images.githubusercontent.com/121459880/214195780-3ae194e8-55c7-4637
 <p align"center"
 https://user-images.githubusercontent.com/121459880/214196760-5df3ae53-ed89-446b-ac61-ae772447fe9d.mp4
 </p>
-
-
-</p>
-
-
 
 ## 🌟 About me
 
