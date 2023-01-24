@@ -36,7 +36,10 @@
 
 <p align="center"> <h3 align="center">An inspired machine learning engineer with a soft spot for deep learning 💀.</h3> </p>
 
-<p align="center"> </p>
+<p align="center"> 
+
+
+</p>
 
 
 
