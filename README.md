@@ -22,7 +22,7 @@
 </p>
 
 	
-## ⚡ Top GitHub Directories
+## ⚡ Top GitHub Repos
 <br/>
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
