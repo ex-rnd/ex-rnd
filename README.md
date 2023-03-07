@@ -39,11 +39,12 @@
 
 <h3 align="center"> Final Year Project (B.Eng in Electrical and Telecommunication) </h3>
 
+<p>
 
 https://user-images.githubusercontent.com/121459880/223582214-f2c733b6-6ac0-429b-95dd-dc135a44f3d5.mp4
 
 
-<p> </p>
+</p>
 
 ## 🌟 About me
 
