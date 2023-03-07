@@ -34,10 +34,17 @@
 
 ## ❄️ Summary
 
-<p align="center"> <h3 align="center">An inspired machine learning engineer with a soft spot for deep learning 💀.</h3> </p>
+<p align="center"> <h3 align="center">An aspiring machine learning engineer with an insatiable knack for deep learning 💀.</h3> </p>
 
 
 <h3 align="center"> Final Year Project (B.Eng in Electrical and Telecommunication) </h3>
+
+<div align="center">
+  <video src="myvideo.mp4" width=400/>
+	
+<div/>
+	
+
 
 ![IMG_20220604_101330](https://user-images.githubusercontent.com/121459880/214196144-9d1a954c-9f34-4ede-8eb4-41897e895f19.jpg)
 
