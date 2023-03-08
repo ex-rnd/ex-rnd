@@ -1,4 +1,3 @@
-https://user-images.githubusercontent.com/121459880/223582214-f2c733b6-6ac0-429b-95dd-dc135a44f3d5.mp4
 <p align="center"> </p>
 <p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
 <p align="center"> </p>
@@ -42,7 +41,7 @@ https://user-images.githubusercontent.com/121459880/223582214-f2c733b6-6ac0-429b
 
 <p> </p>
 
-https://user-images.githubusercontent.com/121459880/223582214-f2c733b6-6ac0-429b-95dd-dc135a44f3d5.mp4
+[!Lovely Video](https://user-images.githubusercontent.com/121459880/223582214-f2c733b6-6ac0-429b-95dd-dc135a44f3d5.mp4)
 
 
 ## 🌟 About me
