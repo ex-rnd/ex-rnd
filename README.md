@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
 <p align="center"> </p>
 
-<h1 align="center"> Hey 😉, I'm James Kilonzo aka Ex-RnD 😎! </h1>
+<h1 align="center"> Hey there, I'm James Kilonzo (aka Ex-RnD) 😎! </h1>
 
 
 
@@ -14,6 +14,9 @@
 
 <br/>
 <br/>
+
+
+
 	
 ## ⚡ Top GitHub Repos
 
