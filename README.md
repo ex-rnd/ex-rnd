@@ -12,34 +12,24 @@
 <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
 
+<br/>
 	
 ## ⚡ Top GitHub Repos
 
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-
-
 </p>
 
+<br/>
 
 ## ❄️ Summary
 
-<p align="center"> <h3 align="center">An aspiring machine learning engineer with an insatiable knack for deep learning 💀.</h3> </p>
-
-
-<h3 align="center"> Final Year Project (B.Eng in Electrical and Telecommunication) </h3>
-
-![IMG_20220604_101330](https://user-images.githubusercontent.com/121459880/223586044-38222413-cc99-44f6-85fd-d53b0104f103.jpg)
-
 <p align="center"> 
-	<a href="https://user-images.githubusercontent.com/121459880/223857543-79b9a5b9-205e-4841-b449-d0ab38f74eb2.mp4">
-	Download Video 
-	</a>
+<h3 align="center">
+An aspiring machine learning engineer with an insatiable knack for deep learning 💀.
+</h3> 
 </p>
-
-
-
 
 
 ## 🌟 About me
