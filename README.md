@@ -6,12 +6,10 @@
 
 
 
-## ✨ Github Stats
+## ✨ Most Used Language
 
 
 <p align="center">
-## 👩🏻‍💻 Most Used Language
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
 
