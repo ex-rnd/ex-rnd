@@ -10,10 +10,15 @@
 
 <p align="center">
 
-<img align="left" width="47%" src="https://github-readme-stats-ruby-seven.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
+<img align="center" width="47%" src="https://github-readme-stats-ruby-seven.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
+<br/>
+</p>
+
+<p align="center">
+## 👩🏻‍💻 Most Used Language
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />  
-  
+<br/>  
 </p>
 
 	
