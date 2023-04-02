@@ -6,7 +6,7 @@
 
 
 
-## ✨ Most Used Language
+## ✨ Most Used Languages
 
 <p align="center">
 <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
@@ -31,6 +31,7 @@ An aspiring machine learning engineer with an insatiable knack for deep learning
 </h3> 
 </p>
 
+<br/>
 
 ## 🌟 About me
 
@@ -129,7 +130,7 @@ An aspiring machine learning engineer with an insatiable knack for deep learning
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
