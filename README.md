@@ -8,13 +8,10 @@
 
 ## ✨ Most Used Language
 
-
 <p align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
+<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
 
-<br/>
-<p> </p>
 	
 ## ⚡ Top GitHub Repos
 
@@ -141,11 +138,6 @@
 
 
 ---
-
-## 🏍️Boy Scout Rule 
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
 
 ## 🔥 Streak Stats
 
