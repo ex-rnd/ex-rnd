@@ -8,10 +8,6 @@
 
 ## ✨ Github Stats
 
-<p align="center">
-
-<img align="center" width="47%" src="https://github-readme-stats-ruby-seven.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
-</p>
 
 <p align="center">
 ## 👩🏻‍💻 Most Used Language
@@ -21,7 +17,7 @@
 
 	
 ## ⚡ Top GitHub Repos
-
+<br/>
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
@@ -155,8 +151,8 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
+<img align="center" width="47%" src="https://github-readme-stats-ruby-seven.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
+
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
