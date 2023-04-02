@@ -9,7 +9,7 @@
 ## ✨ Most Used Language
 
 <p align="center">
-<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
+<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
 
 	
