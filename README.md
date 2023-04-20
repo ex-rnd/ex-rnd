@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there, welcome ... 😎! </h1>
 
-## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Intercations]
+## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Interactions]
 
 <p align="center">
 	<a href="https://user-images.githubusercontent.com/121459880/233358793-6d7c608e-04c2-4a20-ac07-087ec3a3e90a.mp4"> Download Demo (Video) </a>
