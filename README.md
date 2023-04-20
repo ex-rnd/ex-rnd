@@ -4,13 +4,12 @@
 
 <h1 align="center"> Hey there, I'm James Kilonzo (aka Ex-RnD) 😎! </h1>
 
-## 🥳 Screenshots of (Spotlit 2.0) - Latest Project
+## 🥳 Spotlit 2.0 Updates
 
-## 👨‍💻 Final Year School Project
+## 👨‍💻 School Project [Final Year - Telecom Engineering]
 ![proj3](https://user-images.githubusercontent.com/121459880/233333949-48a00923-f230-4448-8abd-57fb5028af1b.jpg)
 
-
-https://user-images.githubusercontent.com/121459880/233335149-f507b04c-e503-451c-affb-efd13fd95d9f.mp4
+<a href="https://user-images.githubusercontent.com/121459880/233335149-f507b04c-e503-451c-affb-efd13fd95d9f.mp4"> Download </a>
 
 
 ## ✨ Most Used Languages
