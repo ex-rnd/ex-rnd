@@ -6,6 +6,10 @@
 
 ## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Intercations]
 
+<p align="center">
+	<a href="https://user-images.githubusercontent.com/121459880/233358793-6d7c608e-04c2-4a20-ac07-087ec3a3e90a.mp4"> Download Demo (Video) </a>
+</p>
+
 ![01](https://user-images.githubusercontent.com/121459880/233337479-c545128c-57dc-4301-bc91-5fe43000df35.png)
 
 ![02](https://user-images.githubusercontent.com/121459880/233344831-77222b68-49c3-49ad-8e95-f1cd56bd79cd.png)
@@ -18,7 +22,7 @@
 ![proj3](https://user-images.githubusercontent.com/121459880/233333949-48a00923-f230-4448-8abd-57fb5028af1b.jpg)
 
 <p align="center">
-	<a href="https://user-images.githubusercontent.com/121459880/233335149-f507b04c-e503-451c-affb-efd13fd95d9f.mp4"> Download </a>
+	<a href="https://user-images.githubusercontent.com/121459880/233335149-f507b04c-e503-451c-affb-efd13fd95d9f.mp4"> Download Demo (Video) </a>
 </p>
 
 ## ✨ Most Used Languages
@@ -36,7 +40,7 @@
 ## ⚡ Top GitHub Repos
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Spotlit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
