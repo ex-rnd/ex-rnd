@@ -5,7 +5,14 @@
 <h1 align="center"> Hey there, I'm James Kilonzo (aka Ex-RnD) 😎! </h1>
 
 ## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Intercations]
+<p align="center">
 ![01](https://user-images.githubusercontent.com/121459880/233337479-c545128c-57dc-4301-bc91-5fe43000df35.png)
+</p>
+
+<p align="center">
+![02](https://user-images.githubusercontent.com/121459880/233344831-77222b68-49c3-49ad-8e95-f1cd56bd79cd.png)	
+</p>
+	  
 
 ## 👨‍💻 School Project [Final Year 2022 / Electrical & Telecom Engineering]
 ![proj3](https://user-images.githubusercontent.com/121459880/233333949-48a00923-f230-4448-8abd-57fb5028af1b.jpg)
