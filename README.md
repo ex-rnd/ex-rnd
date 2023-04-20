@@ -4,7 +4,10 @@
 
 <h1 align="center"> Hey there, I'm James Kilonzo (aka Ex-RnD) 😎! </h1>
 
+## 🥳 Screenshots of Latest Project (Spotlit 2.0)
 
+## 💀 Final Year School Project
+![proj3](https://user-images.githubusercontent.com/121459880/233333949-48a00923-f230-4448-8abd-57fb5028af1b.jpg)
 
 ## ✨ Most Used Languages
 
@@ -31,7 +34,7 @@
 
 <p align="center"> 
 <h3 align="center">
-An aspiring machine learning engineer with an insatiable knack for deep learning 💀.
+I am deeply passionate about telecommunication engineering, software engineering and also machine learning.
 </h3> 
 </p>
 
