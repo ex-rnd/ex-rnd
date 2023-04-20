@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
 <p align="center"> </p>
 
-<h1 align="center"> Hey there, Welcome to my GitHub Page ... 😎! </h1>
+<h1 align="center"> Hey there, welcome ... 😎! </h1>
 
 ## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Intercations]
 
