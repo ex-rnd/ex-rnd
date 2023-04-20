@@ -2,16 +2,13 @@
 <p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
 <p align="center"> </p>
 
-<h1 align="center"> Hey there, I'm James Kilonzo (aka Ex-RnD) 😎! </h1>
+<h1 align="center"> Hey there, Welcome to my GitHub Page ... 😎! </h1>
 
 ## 🥳 Spotlit 2.0 Updates [Empowering Safe Online Intercations]
-<p align="center">
-![01](https://user-images.githubusercontent.com/121459880/233337479-c545128c-57dc-4301-bc91-5fe43000df35.png)
-</p>
 
-<p align="center">
-![02](https://user-images.githubusercontent.com/121459880/233344831-77222b68-49c3-49ad-8e95-f1cd56bd79cd.png)	
-</p>
+![01](https://user-images.githubusercontent.com/121459880/233337479-c545128c-57dc-4301-bc91-5fe43000df35.png)
+
+![02](https://user-images.githubusercontent.com/121459880/233344831-77222b68-49c3-49ad-8e95-f1cd56bd79cd.png)
 	  
 
 ## 👨‍💻 School Project [Final Year 2022 / Electrical & Telecom Engineering]
