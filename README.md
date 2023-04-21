@@ -10,7 +10,7 @@
 	<a href="https://user-images.githubusercontent.com/121459880/233358793-6d7c608e-04c2-4a20-ac07-087ec3a3e90a.mp4"> Download Demo (Video) </a>
 </p>
 
-#### ++ Added support for sign in and sign up (from simple - <a href="https://github.com/ex-rnd/Spotlit"> Spotlit 1.0  </a>)
+#### ++ Added support for sign in and sign up (from - <a href="https://github.com/ex-rnd/Spotlit"> Spotlit 1.0  </a>)
 
 ![01](https://user-images.githubusercontent.com/121459880/233337479-c545128c-57dc-4301-bc91-5fe43000df35.png)
 
