@@ -56,7 +56,7 @@
 
 <p align="center"> 
 <h3 align="center">
-I am deeply passionate about telecommunication engineering, software engineering and also machine learning.
+I am deeply curious about solving difficult technical problems using witty, fast and efficient solutions.
 </h3> 
 </p>
 
