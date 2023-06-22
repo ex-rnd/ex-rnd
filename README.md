@@ -47,7 +47,7 @@
 
 <p align="center"> 
 <h3 align="center">
-I am deeply curious about solving difficult technical problems using witty, fast and efficient solutions.
+I am driven to solve difficult technical problems using witty, fast and efficient solutions.
 </h3> 
 </p>
 
