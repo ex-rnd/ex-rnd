@@ -8,13 +8,17 @@
 
 <p align="center">
 
-<a href="https://github.com/ex-rnd/github-stats-transparent">
+######## +++ Spotlit Sign In Page
+![Spotlit_App SignIn](https://github.com/ex-rnd/ex-rnd/assets/121459880/0ad5e020-a569-4bce-88e5-4e5758c25544)
 
-![](https://raw.githubusercontent.com/ex-rnd/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ex-rnd/github-stats-transparent/output/generated/languages.svg)
+######## +++ Spotlit Crackle Page
+![Spotlit_App Crackle](https://github.com/ex-rnd/ex-rnd/assets/121459880/34a20f84-1e74-4f7d-9d7f-0f039c2ecbc3)
 
-</a>
+######## +++ Spotlit FactCheck Page
+![Spotlit_App FactCheck](https://github.com/ex-rnd/ex-rnd/assets/121459880/f00b6c58-e44d-4330-a209-d6380cf1cba2)
 
+######## +++ Spotlit LookUp Page
+![Spotlit_App LookUp](https://github.com/ex-rnd/ex-rnd/assets/121459880/5298a84e-1b57-4435-a0ed-74bf44f9ffd4)
 
 </p>
 
