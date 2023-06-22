@@ -12,7 +12,7 @@
 ![Spotlit_App SignIn](https://github.com/ex-rnd/ex-rnd/assets/121459880/0ad5e020-a569-4bce-88e5-4e5758c25544)
 
 ######## +++ Spotlit Crackle Page
-![Spotlit_App Crackle](https://github.com/ex-rnd/ex-rnd/assets/121459880/34a20f84-1e74-4f7d-9d7f-0f039c2ecbc3)
+![Spotlit_App Crackle](https://github.com/ex-rnd/ex-rnd/assets/121459880/8f8a41e4-a22e-4866-a4b0-8e20f49485ec)
 
 ######## +++ Spotlit FactCheck Page
 ![Spotlit_App FactCheck](https://github.com/ex-rnd/ex-rnd/assets/121459880/f00b6c58-e44d-4330-a209-d6380cf1cba2)
