@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there, welcome ... 😎! </h1>
 
-## 🥳 Current Projects . . .  
+## 🥳 Current Updates on Spotlit . . .  
 
 <p align="center">
 
