@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there, welcome ... 😎! </h1>
 
-## 🥳 Current Updates on Spotlit . . .  
+## 🥳 Current Updates on Spotlit [Empowering Safe Online Interactions] . . .  
 
 <p align="center">
 
