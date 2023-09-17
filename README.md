@@ -41,7 +41,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
   
 - 🌱 I’m currently learning **Streamlit**
   
-- 🔭 I’m currently working on [Spotlit](https://github.com/ex-rnd/Spotlit)
+- 🔭 I’m currently working on [Spotlit](https://github.com/ex-rnd/Spotlit_2.0)
 
 - 💬 Ask me about **Python**
   
