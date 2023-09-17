@@ -37,7 +37,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 ## 🌟 About me
 
-- ❤️ I love scripting Python 🔥, and building fun experiments on vscode 💥!
+- ❤️ I love Rust, Python, Java, Javascript, C, C++ 🔥, and building fun experiments on vscode 💥!
   
 - 🌱 I’m currently learning **Streamlit**
   
