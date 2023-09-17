@@ -45,7 +45,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 - 💬 Ask me about **Python**
   
-- 📫 How to reach me **ever.ex.rnd@gmail.com**
+- 📫 How to reach me **jkilonzo2023@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
   
