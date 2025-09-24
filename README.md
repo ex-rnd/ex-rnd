@@ -7,6 +7,9 @@
 
 
 <p align="center"> </p>
+<br/>
+
+
 ## ✨ Most Used Languages
 
 <p align="center">
@@ -19,6 +22,9 @@
 
 
 <p align="center"> </p>
+<br/>
+
+
 ## ⚡ Top GitHub Repos
 
 <p align="center">
