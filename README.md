@@ -20,8 +20,7 @@
 
 </p>
 &nbsp;&nbsp;
-  \\
-  \\
+
 
 ## ⚡ Top GitHub Repos
 
