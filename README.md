@@ -30,6 +30,9 @@
 
 
 <p align="center"> </p>
+<br/>
+
+
 ## ❄️ Summary
 
 <p align="center"> 
@@ -41,6 +44,9 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 <br/>
 
 <p align="center"> </p>
+<br/>
+
+
 ## 🌟 About me
 
 - ❤️ I love Rust, Python, Java, Javascript, C, C++ 🔥, and building fun experiments on vscode 💥!
