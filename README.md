@@ -81,11 +81,20 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ## 🔵 Connect with me:
   
 <p align="center">
 <a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a>
 </p>
+
+<p align="center"> </p>
+<br/>
+
+
 
 ## 🛠️ My Favorite Tools
 
@@ -109,6 +118,10 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -127,6 +140,10 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
