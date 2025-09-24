@@ -4,11 +4,8 @@
 
 <h1 align="center"> Hey there, welcome ... 😎! </h1>
 
-
-
 <p align="center"> </p>
 <br/>
-
 
 ## ✨ Most Used Languages
 
@@ -19,8 +16,6 @@
 <br/>
 <br/>
 
-
-
 <p align="center"> </p>
 <br/>
 <p align="center"> </p>
@@ -29,19 +24,11 @@
 <br/>
 <p align="center"> </p>
 <h1> </h1>
+<h1> </h1>
+<h1> </h1>
 <p align="center"> </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 
 ## ⚡ Top GitHub Repos
-
 
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
@@ -53,7 +40,6 @@
 
 <p align="center"> </p>
 <br/>
-
 
 ## ❄️ Summary
 
@@ -67,7 +53,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 <p align="center"> </p>
 <br/>
-
 
 ## 🌟 About me
 
@@ -86,13 +71,9 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 - 👨‍💻 Some of my projects are available at [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
 
 - ⚡ Fun fact **"Ears that don't hear will be chopped off!"**
-- 
-
 
 <p align="center"> </p>
 <br/>
-
-
 
 ## 🔵 Connect with me:
   
@@ -103,16 +84,12 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 <p align="center"> </p>
 <br/>
 
-
-
 ## 🛠️ My Favorite Tools
 
 
 
 <p align="center"> </p>
 <br/>
-
-
 
 ### 💻 Programming Languages
 
@@ -132,8 +109,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 <p align="center"> </p>
 <br/>
-
-
 
 ### 🧰 Frameworks and Libraries
 
@@ -155,8 +130,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 <p align="center"> </p>
 <br/>
 
-
-
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -173,8 +146,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 <p align="center"> </p>
 <br/>
-
-
 
 ### 🔧 Software, Technologies and tools
 
@@ -205,8 +176,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 <p align="center"> </p>
 <br/>
 
-
-
 ## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -215,11 +184,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
-
-
-
-
-
 
 
 ## :book: Guestbook</h2>
