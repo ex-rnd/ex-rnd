@@ -41,8 +41,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 </h3> 
 </p>
 
-<br/>
-
 <p align="center"> </p>
 <br/>
 
