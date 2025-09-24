@@ -7,7 +7,7 @@
 <br/>
 
 ## ✨ Most Used Languages
-
+<p align="center">
 <p align="center">
 <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
@@ -15,10 +15,7 @@
 <br/>
 <br/>
 
-<p align="center"> </p>
-<br/>
-<p align="center"> </p>
-<br/>
+</p>
 
 ## ⚡ Top GitHub Repos
 
