@@ -101,6 +101,10 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ### 💻 Programming Languages
 
 <p>
@@ -159,6 +163,10 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ### 🔧 Software, Technologies and tools
 
 <p>
@@ -186,6 +194,10 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
+<br/>
+
+
+
 ## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
