@@ -6,7 +6,7 @@
 
 
 
-<br/>
+<p align="center"> </p>
 ## ✨ Most Used Languages
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 
 
-<br/>	
+<p align="center"> </p>
 ## ⚡ Top GitHub Repos
 
 <p align="center">
@@ -29,7 +29,7 @@
 <br/>
 
 
-<br/>
+<p align="center"> </p>
 ## ❄️ Summary
 
 <p align="center"> 
@@ -40,6 +40,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 <br/>
 
+<p align="center"> </p>
 ## 🌟 About me
 
 - ❤️ I love Rust, Python, Java, Javascript, C, C++ 🔥, and building fun experiments on vscode 💥!
@@ -60,7 +61,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 - 
 
 
-<br/>
+<p align="center"> </p>
 ## 🔵 Connect with me:
   
 <p align="center">
@@ -71,7 +72,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 
-<br/>
+<p align="center"> </p>
 ### 💻 Programming Languages
 
 <p>
@@ -88,7 +89,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 </p>
 
 
-<br/>
+<p align="center"> </p>
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -106,7 +107,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 </p>
 
 
-<br/>
+<p align="center"> </p>
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -121,7 +122,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 </p>
 
 
-<br/>
+<p align="center"> </p>
 ### 🔧 Software, Technologies and tools
 
 <p>
@@ -148,7 +149,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 ---
 
 
-<br/>
+<p align="center"> </p>
 ## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
