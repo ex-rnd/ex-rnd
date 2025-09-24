@@ -74,7 +74,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 </p>
 
 <p align="center"> </p>
-<br/>
 
 ## 🛠️ My Favorite Tools
 
