@@ -78,10 +78,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 ## 🛠️ My Favorite Tools
 
-
-
 <p align="center"> </p>
-<br/>
 
 ### 💻 Programming Languages
 
@@ -98,9 +95,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 </p>
 
-
 <p align="center"> </p>
-<br/>
 
 ### 🧰 Frameworks and Libraries
 
@@ -118,9 +113,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> -->
 </p>
 
-
 <p align="center"> </p>
-<br/>
 
 ### 🗄️ Databases and cloud hosting
 
@@ -135,9 +128,7 @@ I am driven to solve difficult technical problems using fast, witty and efficien
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-
 <p align="center"> </p>
-<br/>
 
 ### 🔧 Software, Technologies and tools
 
@@ -166,7 +157,6 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 
 <p align="center"> </p>
-<br/>
 
 ## 🔥 GitHub Stats
 
