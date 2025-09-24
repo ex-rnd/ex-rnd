@@ -4,6 +4,9 @@
 
 <h1 align="center"> Hey there, welcome ... 😎! </h1>
 
+
+
+<br/>
 ## ✨ Most Used Languages
 
 <p align="center">
@@ -15,7 +18,7 @@
 
 
 
-	
+<br/>	
 ## ⚡ Top GitHub Repos
 
 <p align="center">
@@ -25,6 +28,8 @@
 
 <br/>
 
+
+<br/>
 ## ❄️ Summary
 
 <p align="center"> 
@@ -54,6 +59,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 - ⚡ Fun fact **"Ears that don't hear will be chopped off!"**
 - 
 
+
+<br/>
 ## 🔵 Connect with me:
   
 <p align="center">
@@ -63,6 +70,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 ## 🛠️ My Favorite Tools
 
 
+
+<br/>
 ### 💻 Programming Languages
 
 <p>
@@ -78,6 +87,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 </p>
 
+
+<br/>
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -94,6 +105,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> -->
 </p>
 
+
+<br/>
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -107,6 +120,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
+
+<br/>
 ### 🔧 Software, Technologies and tools
 
 <p>
@@ -132,6 +147,8 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 ---
 
+
+<br/>
 ## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
