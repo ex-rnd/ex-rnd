@@ -24,7 +24,7 @@
 
 ## ⚡ Top GitHub Repos
 
-<h3> ### Data Analysis & Data Science Projects</h3>
+<h3 align="center"> Data Analysis & Data Science Projects</h3>
 
 <p align="center">
 	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
@@ -32,7 +32,7 @@
 </p>
 
 
-<h3> ### NodeJS | Express Projects</h3>
+<h3 align="center"> NodeJS | Express Projects</h3>
 
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 
-<h3 align="center"> ### AI | ML | Python Apps Projects</h3>
+<h3 align="center"> AI | ML | Python Apps Projects</h3>
 
 
 <p align="center">
