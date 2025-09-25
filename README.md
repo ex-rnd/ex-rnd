@@ -25,6 +25,11 @@
 ## ⚡ Top GitHub Repos
 
 <p align="center">
+	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<p align="center">
 	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
