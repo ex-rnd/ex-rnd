@@ -22,7 +22,7 @@
 &nbsp;&nbsp;
 
 
-## ⚡ Top GitHub Repos
+## ⚡ Best Projects Yet
 
 <h3 align="center"> Data Analysis & Data Science Projects </h3>
 
