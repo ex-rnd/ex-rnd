@@ -7,9 +7,9 @@
 <br/>
 
 ## Cool App
-<p align="center">
+
 https://github.com/user-attachments/assets/4e5f0016-c71d-4a12-9175-b6c628436596
-</p>
+
 
 ## ✨ Most Used Languages
 <p align="center">
