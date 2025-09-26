@@ -6,7 +6,8 @@
 <p align="center"> </p>
 <br/>
 
-## Cool App
+## ❤️‍🔥 Spotlit Social 
+### 🔥 AI | ML | NLP 🔥
 
 https://github.com/user-attachments/assets/4e5f0016-c71d-4a12-9175-b6c628436596
 
