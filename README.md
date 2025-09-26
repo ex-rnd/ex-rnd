@@ -6,6 +6,12 @@
 <p align="center"> </p>
 <br/>
 
+## Cool App
+<p align="center">
+<p align="center">
+https://github.com/user-attachments/assets/4e5f0016-c71d-4a12-9175-b6c628436596
+</p>
+
 ## ✨ Most Used Languages
 <p align="center">
 <p align="center">
@@ -61,7 +67,7 @@
 
 <p align="center"> 
 <h3 align="center">
-I am driven to solve difficult technical problems using fast, witty and efficient solutions.
+I heartfully solve challenging technical problems fast, wittingly and efficiently!
 </h3> 
 </p>
 
@@ -70,13 +76,15 @@ I am driven to solve difficult technical problems using fast, witty and efficien
 
 ## 🌟 About me
 
-- ❤️ I love Rust, Python, Java, Javascript, C, C++ 🔥, and building fun experiments on vscode 💥!
-  
-- 🌱 I’m currently learning **Streamlit**
-  
-- 🔭 I’m currently working on [Spotlit](https://github.com/ex-rnd/Spotlit_2.0)
+- ❤️ I love Haskell, Elixir, Rust 🔥!
 
-- 💬 Ask me about **Python**
+- 💥 I like Building fun experiments on VsCode 💥!
+  
+- 🌱 I’m currently learning **FastAPI**
+  
+- 🔭 I’m currently working on [Spixah](https://github.com/ex-rnd)
+
+- 💬 Ask me about **Rust**
   
 - 📫 How to reach me **jkilonzo2023@gmail.com**
 
