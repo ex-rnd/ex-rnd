@@ -24,15 +24,21 @@
 
 ## ⚡ Top GitHub Repos
 
-<h3 align="center"> Data Analysis & Data Science Projects</h3>
+<h3 align="center"> Data Analysis & Data Science Projects </h3>
 
 <p align="center">
 	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
+<h3 align="center"> Flutter Standalone / Fullstack Apps </h3>
 
-<h3 align="center"> NodeJS | Express Projects</h3>
+<p align="center">
+	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<h3 align="center"> NodeJS | Express Projects </h3>
 
 
 <p align="center">
@@ -40,7 +46,7 @@
 </p>
 
 
-<h3 align="center"> AI | ML | Python Apps Projects</h3>
+<h3 align="center"> AI | ML | Python Apps Projects </h3>
 
 
 <p align="center">
