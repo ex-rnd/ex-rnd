@@ -6,8 +6,9 @@
 <p align="center"> </p>
 <br/>
 
-## Currently, working on Spixah ❤️‍🔥
+## 🔆 Currently, working on Spixah ❤️‍🔥
 ### 🔥 Python | Sonic Pi | Flutter 🔥
+#### Spixah is an app thats intended to be able to take `vocal sounds` from a human and generate a song from scratch!
 
 https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
