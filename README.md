@@ -6,10 +6,12 @@
 <p align="center"> </p>
 <br/>
 
-## ❤️‍🔥 Spotlit Social 
-### 🔥 AI | ML | NLP 🔥
+## Currently, working on Spixah ❤️‍🔥
+### 🔥 Python | Sonic Pi | Flutter 🔥
 
-https://github.com/user-attachments/assets/4e5f0016-c71d-4a12-9175-b6c628436596
+https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
+
+
 
 
 ## ✨ Most Used Languages
