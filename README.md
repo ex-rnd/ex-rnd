@@ -8,7 +8,7 @@
 
 ## 🔆 Currently, working on Spixah ❤️‍🔥
 ### 🔥 Python | Sonic Pi | Flutter (soon) 🔥
-#### Spixah is an app thats intended to be able to take `vocal sounds` from a human and generate a song from scratch!
+#### Spixah is an app thats intended to be able to take `vocal sounds` from a human and `generate a song from scratch!`
 
 https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 <h3 align="center"> Data Analysis Projects </h3>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Netflix-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
