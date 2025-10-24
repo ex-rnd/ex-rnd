@@ -7,29 +7,12 @@
 <br/>
 
 ## 🔆 Currently, working on Spixah ❤️‍🔥
-### 🔥 Python | Sonic Pi | Flutter 🔥
+### 🔥 Python | Sonic Pi | Flutter (soon) 🔥
 #### Spixah is an app thats intended to be able to take `vocal sounds` from a human and generate a song from scratch!
 
 https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
-
-
-
-## ✨ Most Used Languages
-<p align="center">
-<p align="center">
-<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
-</p>
-
-<br/>
-<br/>
-<p align="center"> </p>
-<p align="center"> </p>
-<p align="center"> </p>
-
-</p>
 &nbsp;&nbsp;
-
 
 ## ⚡ Best Projects Yet
 
@@ -107,6 +90,21 @@ I heartfully solve challenging technical problems fast, wittingly and efficientl
 </p>
 
 <p align="center"> </p>
+
+## ✨ Most Used Languages
+<p align="center">
+<p align="center">
+<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
+</p>
+
+<br/>
+<br/>
+<p align="center"> </p>
+<p align="center"> </p>
+<p align="center"> </p>
+
+</p>
+&nbsp;&nbsp;
 
 ## 🛠️ My Favorite Tools
 
