@@ -77,7 +77,7 @@ I heartfully solve challenging technical problems fast, wittingly and efficientl
 
 ## 🌟 About me
 
-- ❤️ I love Haskell, Elixir, Rust 🔥!
+- ❤️ I love Python 🔥!
 
 - 💥 I like building fun experiments on VsCode 💥!
   
