@@ -19,11 +19,10 @@ https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 <h3 align="center"> Original Device (s) </h3>
 <p align="center">
 	<a href="https://github.com/ex-rnd/mini_studio_relic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=mini_studio_relic&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
 <p align="center">
   https://github.com/user-attachments/assets/e3aac823-0745-4894-ad7e-6cad8599dcbd
-</p>
-	
-	
 </p>
 
 <h3 align="center"> Original Apps </h3>
