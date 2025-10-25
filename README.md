@@ -6,11 +6,26 @@
 <p align="center"> </p>
 <br/>
 
-## 🔆 Currently, working on Spixah ❤️‍🔥
+## 🔆 Currently, working on Spixah 🔆️‍🔥
 ### 🔥 Python | Sonic Pi | Flutter (soon) 🔥
 #### Spixah is an app thats intended to be able to take `vocal sounds` from a human and `generate a song from scratch!`
 
 https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
+
+&nbsp;&nbsp;
+
+## ️‍🔥 Currently, working on Spixah ❤️‍🔥
+### 🔥 Original Projects (Original Devices & Apps) 🔥
+<h3 align="center"> Original Device (s) </h3>
+<p align="center">
+	<a href="https://github.com/ex-rnd/mini_studio_relic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=mini_studio_relic&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<h3 align="center"> Original Apps </h3>
+<p align="center">
+	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
 
 &nbsp;&nbsp;
 
@@ -47,17 +62,6 @@ https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
-
-<h3 align="center"> AI | ML | Python Apps Projects </h3>
-
-
-<p align="center">
-	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-<p align="center"> </p>
-<br/>
 
 ## ❄️ Summary
 
