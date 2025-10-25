@@ -6,7 +6,7 @@
 <p align="center"> </p>
 <br/>
 
-## 🔆 Currently, working on Spixah 🔆️‍🔥
+## 🔆 Currently, working on Spixah 🔆
 ### 🔥 Python | Sonic Pi | Flutter (soon) 🔥
 #### Spixah is an app thats intended to be able to take `vocal sounds` from a human and `generate a song from scratch!`
 
@@ -14,14 +14,14 @@ https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
 &nbsp;&nbsp;
 
-## ️‍🔥 Currently, working on Spixah ❤️‍🔥
-### 🔥 Original Projects (Original Devices & Apps) 🔥
-<h3 align="center"> Original Device (s) </h3>
+## ️‍❤️‍🔥 Currently, working on Spixah ❤️‍🔥
+### 🔥 Original Projects 🔥
+<h3 align="center"> 🤖 Original Device (s) </h3>
 
 https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
 
 
-<h3 align="center"> Original App (s) </h3>
+<h3 align="center"> 📱 Original App (s) </h3>
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
