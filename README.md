@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 ## ⚡ Best Projects Yet
 <h3 align="center"> Data Analysis Projects </h3>
 <p align="center">
-	<a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
