@@ -7,14 +7,23 @@
 <br/>
 
 ## 🔆 Currently, working on Spixah 🔆
-### 🔥 Python | Sonic Pi | Flutter (soon) 🔥
 #### Spixah is an app thats intended to be able to take `vocal sounds` from a human and `generate a song from scratch!`
+
+### ️‍❤️‍🔥 Spixah - Frontend - Flutter - Progress ❤️‍🔥
+#### Iteration 1 (Frontend) progress:
+
+https://github.com/user-attachments/assets/ea7f241e-84fd-481f-ab7c-93aaaae14056
+
+
+
+### 🔥 Spixah - Backend - Python/FastAPI/Sonic Pi (Ruby) - Progress 🔥
+#### Iteration 1 (Backend) progress:
 
 https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
 &nbsp;&nbsp;
 
-## ️‍❤️‍🔥 Currently, working on Spixah ❤️‍🔥
+
 ### 🔥 Original Projects 🔥
 <h3 align="center"> 🤖 Original Device (s) </h3>
 
@@ -68,7 +77,7 @@ https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
 
 <p align="center"> 
 <h3 align="center">
-I heartfully solve challenging technical problems fast, wittingly and efficiently!
+I tackle complex technical problems with speed, creativity, and precision 😎!
 </h3> 
 </p>
 
