@@ -11,11 +11,11 @@
 
 - ❤️ I love Python 🔥!
 
+- 🔭 I’m currently working on [Spixah](https://github.com/ex-rnd)
+
 - 🌱 I’m currently learning **Streamlit**
 
 - 💥 I like building fun experiments on Fleet / VsCode / Cursor 💥!
-  
-- 🔭 I’m currently working on [Spixah](https://github.com/ex-rnd)
 
 - 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
   
