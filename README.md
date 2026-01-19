@@ -27,7 +27,7 @@
   
 - 👨‍💻 Some of my projects are available at [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
 
-- ⚡ Fun fact **"Ears that don't hear will be chopped off!"**
+- ⚡ Fun fact **"I am always the last man standing when everything fails!"**
 
 <p align="center"> </p>
 <br/>
