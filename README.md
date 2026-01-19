@@ -40,6 +40,64 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 </p>
 &nbsp;&nbsp;
 
+### New Section 
+
+## ⚡ Projects 
+<h3 align="center"> ✴️ Best Project (s) </h3>
+<h3 align="center"> 🔬 Data Analysis Projects </h3>
+<p align="center">
+	<a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<p align="center">
+	<a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<h3 align="center"> ⚗️ Data Science Projects </h3>
+
+<p align="center">
+	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=c9cacc&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<h3 align="center"> 📱Flutter Projects </h3>
+
+<p align="center">
+	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+<h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
+
+
+<p align="center">
+	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+
+### 🔥 Original Projects 🔥
+<h3 align="center"> 📱 Original App (s) </h3>
+<p align="center">
+	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+&nbsp;&nbsp;
+
+<h3 align="center"> 🤖 Original Device (s) </h3>
+
+https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
+
+&nbsp;&nbsp;
+
+<p align="center"> </p>
+<br/>
+<p align="center"> </p>
+
+### New Section
+
 ## 🛠️ My Favorite Tools
 
 <p align="center"> </p>
@@ -117,59 +175,7 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 &nbsp;&nbsp;
 
 
-## ⚡ Projects 
-<h3 align="center"> ✴️ Best Project (s) </h3>
-<h3 align="center"> 🔬 Data Analysis Projects </h3>
-<p align="center">
-	<a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
 
-<p align="center">
-	<a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-<h3 align="center"> ⚗️ Data Science Projects </h3>
-
-<p align="center">
-	<a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&title_color=c9cacc&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-<h3 align="center"> 📱Flutter Projects </h3>
-
-<p align="center">
-	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-<h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
-
-
-<p align="center">
-	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-
-### 🔥 Original Projects 🔥
-<h3 align="center"> 📱 Original App (s) </h3>
-<p align="center">
-	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-&nbsp;&nbsp;
-
-<h3 align="center"> 🤖 Original Device (s) </h3>
-
-https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
-
-&nbsp;&nbsp;
-
-<p align="center"> </p>
-<br/>
-<p align="center"> </p>
 
 
 ## 🔥 GitHub Stats
