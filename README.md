@@ -13,22 +13,12 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 
 ## ✨ Most Used Languages
 <p align="center">
-<p align="center">
 <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
 </p>
-
 <br/>
-<br/>
-<p align="center"> </p>
-<p align="center"> </p>
-<p align="center"> </p>
+&nbsp;&nbsp;
 
-</p>
-
-
-## ⚡ Projects 
-<h3 align="center"> ✴️ Best Project (s) </h3>
-
+## ✴️ Best Project (s)
 <h3 align="center"> ⚗️ Data Science Projects </h3>
 
 <p align="center">
