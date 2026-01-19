@@ -11,12 +11,10 @@
 ## ❄️ Summary
 <p align="center"> 
 <h3 align="center">
-I am a Data Scientist who loves to tackle complex technical problems swiftly 😎!
+I am a Data Scientist who loves to solve machine learning problems 😎!
 </h3> 
 </p>
-
-<p align="center"> </p>
-<br/>
+&nbsp;&nbsp;
 
 
 ## 🔵 Connect with me:
