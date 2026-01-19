@@ -2,18 +2,14 @@
 <p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
 <p align="center"> </p>
 
-
-<p align="center"> 
+<h3 align="center"> 
 	<h1 align="center"> Hey there, welcome ... 😎! </h1>
-</p>
-<br/>
+</h3>
 
 ## ❄️ Summary
-<p align="center"> 
 <h3 align="center">
 I am a Data Scientist who loves to solve machine learning problems 😎!
 </h3> 
-</p>
 &nbsp;&nbsp;
 
 
