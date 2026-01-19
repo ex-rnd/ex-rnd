@@ -32,9 +32,10 @@
 
 ## 🔵 Connect with me:
   
-<p align="center">
+<p align="right">
 <a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a>
-	
+</p>
+<p align="left">	
 <a href="https://instagram.com/mr_babbito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_babbito" height="30" width="40" /></a>
 </p>
 
