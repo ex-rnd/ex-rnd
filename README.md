@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
   
-- 📫 How to reach me **jkilonzo2023@gmail.com**
+- 📫 How to reach me? Reach me through: **jkilonzo2023@gmail.com** or **jkilonzo2023@gmail.com**
 
 - 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
   
