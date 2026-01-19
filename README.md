@@ -62,6 +62,12 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
+<p align="center">
+	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+</p>
+
+
 <h3 align="center"> 📱Flutter Projects </h3>
 
 <p align="center">
@@ -77,18 +83,11 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 </p>
 
 
-### 🔥 Original Projects 🔥
-<h3 align="center"> 📱 Original App (s) </h3>
+<h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-
-&nbsp;&nbsp;
-
-<h3 align="center"> 🤖 Original Device (s) </h3>
-
-https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
 
 &nbsp;&nbsp;
 
