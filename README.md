@@ -48,6 +48,9 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 <p align="center">
 	<a href="https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Soulful-Drive-Upload-Using-Flutter-Cloudinary&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
+</p>
+
+<p align="center">	
 	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
 
