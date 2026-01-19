@@ -20,8 +20,6 @@
 - 📫 How to reach me? Reach me through: **jkilonzo2023@gmail.com**
 
 - 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
-  
-
 
 - 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
   
@@ -36,9 +34,7 @@
   
 <p align="center">
 <a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a>
-</p>
-
-<p align="center">
+	
 <a href="https://instagram.com/mr_babbito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_babbito" height="30" width="40" /></a>
 </p>
 
