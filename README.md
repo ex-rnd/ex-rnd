@@ -36,7 +36,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 <p align="center"> </p>
 
 </p>
-&nbsp;&nbsp;
 
 
 ## ⚡ Projects 
@@ -53,7 +52,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 <br/>
 </p>
-&nbsp;&nbsp;
 
 
 <h3 align="center"> 🔬 Data Analysis Projects </h3>
@@ -67,7 +65,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-&nbsp;&nbsp;
 
 
 <h3 align="center"> 📱Flutter Projects </h3>
@@ -76,7 +73,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-&nbsp;&nbsp;
 
 
 <h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
@@ -84,14 +80,12 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 <p align="center">
 	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-&nbsp;&nbsp;
 
 
 <h3 align="center"> 🐍 Python | Kivy Projects </h3>
 <p align="center">
 	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-&nbsp;&nbsp;
 
 
 <p align="center"> </p>
@@ -117,7 +111,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="https://github.com/search?q=user%3Aex-rnd+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 <p align="center"> </p>
-&nbsp;&nbsp;
 
 ### 🧰 Frameworks and Libraries
 
@@ -135,7 +128,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a> -->
 </p>
 <p align="center"> </p>
-&nbsp;&nbsp;
 
 ### 🗄️ Databases and cloud hosting
 
@@ -150,8 +142,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 <p align="center"> </p>
-&nbsp;&nbsp;
-
 
 ### 🔧 Software, Technologies and tools
 
@@ -173,8 +163,6 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-&nbsp;&nbsp;
-
 
 ## 🔥 GitHub Stats
 
