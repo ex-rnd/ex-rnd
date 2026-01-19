@@ -6,29 +6,23 @@
 <p align="center"> </p>
 <br/>
 
+## Testing 
 
-## 🌟 About me
+## ❄️ Summary
 
-- ❤️ I love Python 🔥!
-
-- 🔭 I’m currently working on [Spixah](https://github.com/ex-rnd)
-
-- 🌱 I’m currently learning **Streamlit**
-
-- 💥 I like building fun experiments on Fleet / VsCode / Cursor 💥!
-
-- 📫 How to reach me? Reach me through: **jkilonzo2023@gmail.com**
-
-- 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
-
-- 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
-  
-- 👨‍💻 Some of my projects are available at [https://ex-rnd.github.io/](https://ex-rnd.github.io/)
-
-- ⚡ Fun fact **"I am always the last man standing when everything fails!"**
+<p align="center"> 
+<h3 align="center">
+I tackle complex technical problems with speed, creativity, and precision 😎!
+</h3> 
+</p>
 
 <p align="center"> </p>
 <br/>
+
+## Testing
+
+
+
 
 ## 🔵 Connect with me:
   
@@ -179,41 +173,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/exrnd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="exrnd" /></a></p><br><br>
 
-
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ex-rnd&show_icons=true&locale=en" alt="ex-rnd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ex-rnd&" alt="ex-rnd" /></p>
-
-### Testing
-
 ---
 
-## 🔆 Currently, working on Spixah 🔆
-#### Spixah is an app thats intended to be able to take `vocal sounds` from a human and `generate a song from scratch!`
-
-### ️‍❤️‍🔥 Spixah - Frontend - Flutter - Progress ❤️‍🔥
-#### Iteration 1 (Frontend) progress:
-
-https://github.com/user-attachments/assets/ea7f241e-84fd-481f-ab7c-93aaaae14056
-
-
-
-### 🔥 Spixah - Backend - Python/FastAPI/Sonic Pi (Ruby) - Progress 🔥
-#### Iteration 1 (Backend) progress:
-
-https://github.com/user-attachments/assets/5640ae7d-85dd-4318-ac44-93b6eedc8ebf
 
 &nbsp;&nbsp;
 
 
 ### 🔥 Original Projects 🔥
-<h3 align="center"> 🤖 Original Device (s) </h3>
-
-https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
-
-
 <h3 align="center"> 📱 Original App (s) </h3>
 <p align="center">
 	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
@@ -221,6 +188,13 @@ https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
 </p>
 
 &nbsp;&nbsp;
+
+<h3 align="center"> 🤖 Original Device (s) </h3>
+
+https://github.com/user-attachments/assets/aab7fe55-cf0f-41d8-b764-419addaedf00
+
+&nbsp;&nbsp;
+
 
 ## ⚡ Projects 
 <h3 align="center"> ✴️ Best Project (s) </h3>
