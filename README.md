@@ -11,11 +11,6 @@
 I am a Data Scientist who loves to solve machine learning problems 😎!
 </h3> 
 
-## 🔵 Connect with me:
-<h3 align="center">
-<a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a> <br/>	
-</h3>
-
 ## ✨ Most Used Languages
 <p align="center">
 <p align="center">
@@ -85,6 +80,10 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 <br/>
 <p align="center"> </p>
 
+## 🔵 Connect with me:
+<h3 align="center">
+<a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a> <br/>	
+</h3>
 
 ## 🛠️ My Favorite Tools
 
