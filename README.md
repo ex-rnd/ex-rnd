@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Streamlit**
 
-- 📫 How to reach me? Reach me through: **jkilonzo2023@gmail.com**
-
 - 💥 I like building fun experiments on Fleet / VsCode / Cursor 💥!
+
+- 📫 How to reach me? Reach me through: **jkilonzo2023@gmail.com**
 
 - 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
   
-- 
+
 
 - 📄 Know about my experiences [https://linkedin.com/in/james-kilonzo-0aa2b1197](https://linkedin.com/in/james-kilonzo-0aa2b1197))
   
