@@ -11,13 +11,13 @@
 
 - ❤️ I love Python 🔥!
 
-- 💥 I like building fun experiments on VsCode 💥!
-  
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Streamlit**
+
+- 💥 I like building fun experiments on Fleet / VsCode / Cursor 💥!
   
 - 🔭 I’m currently working on [Spixah](https://github.com/ex-rnd)
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **Data Analytics, Data Science and Machine Learning**
   
 - 📫 How to reach me **jkilonzo2023@gmail.com**
 
