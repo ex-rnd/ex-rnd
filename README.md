@@ -154,7 +154,7 @@ I am a Data Scientist who loves to solve machine learning problems 😎!
 <p align="center">
 <img align="center" width="47%" src="https://github-readme-stats-ruby-seven.vercel.app/api?username=ex-rnd&theme=outrun&show_icons=true" />
 
-<p align="center"> If you can dream it, you can do it🔥 </p>
+<p align="center"> **If you can dream it, you can do it** 🔥 </p>
 </p>
 &nbsp;&nbsp;
 
