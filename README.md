@@ -8,7 +8,7 @@
 
 ## ❄️ Summary
 <h3 align="center">
-I am a Data Scientist who loves to solve machine learning problems 😎!
+I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantly 😎!
 </h3> 
 
 ## ✨ Most Used Languages
