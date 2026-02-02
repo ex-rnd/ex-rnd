@@ -13,14 +13,12 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 
 ## ✳️ Ongoing Project(s)
 ### 📹 Frontend
-<div align="center">
-<div align="left">
-	<video src="https://github.com/user-attachments/assets/cbeab10d-8b61-4ca5-85de-8684f7c66584" width="400" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <video src="https://github.com/user-attachments/assets/cbeab10d-8b61-4ca5-85de-8684f7c66584" width="400" controls></video>
+
+  <video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" controls></video>
 </div>
-<div align="right>
-	<video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" />
-</div>
-</div>
+
 
 ### 📹 Backend
 <div align="center">
