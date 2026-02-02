@@ -11,6 +11,17 @@
 I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantly 😎!
 </h3> 
 
+## ✳️ Ongoing Project(s)
+### 📹 Frontend
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/cbeab10d-8b61-4ca5-85de-8684f7c66584" width="400" />
+</div>
+
+### 📹 Backend
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/8a435c05-d389-48f8-84de-ea6267e6dce6" width="400" />
+</div>
+
 ## ✨ Most Used Languages
 <p align="center">
 <img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
