@@ -19,7 +19,7 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 
 ### 📹 Backend
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/8a435c05-d389-48f8-84de-ea6267e6dce6" width="400" />
+  <video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" />
 </div>
 
 ## ✨ Most Used Languages
