@@ -12,12 +12,12 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 </h3> 
 
 ## ✳️ Ongoing Project(s)
-### 📹 Frontend
+### 📹 Spixah (Frontend)
 <div align="center">
   <video src="https://github.com/user-attachments/assets/cbeab10d-8b61-4ca5-85de-8684f7c66584" width="400" controls></video>
 </div>
 
-### 📹 Backend
+### 📹 Spixah (Backend)
 <div align="center">
 	<video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" />
 </div>
