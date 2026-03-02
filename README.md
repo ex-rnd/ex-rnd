@@ -35,7 +35,6 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 #########
 
 
-<details>
 <summary><h3 align="center"> 🔥 Machine Learning Projects </h3></summary>
 
 ###
@@ -51,7 +50,7 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 	<a href="https://github.com/ex-rnd/Streamlit-Obesity-Detector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Obesity-Detector&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Heart-Disease-Predictor&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
 </p>
-</details>
+
 
 <h3 align="center"> ⚗️ Data Science Projects </h3>
 
