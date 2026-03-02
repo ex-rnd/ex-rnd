@@ -44,15 +44,15 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
 <p align="center">
-    <a href="https://github.com/ex-rnd/Music-Genre-Classification"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
-    <a href="https://github.com/ex-rnd/Speech-Emotion-Recognition"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
 	<br/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+    <a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit_2.0&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 <br/>
 </p>
 
