@@ -80,9 +80,19 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <h3 align="center"> 📱Flutter Projects </h3>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Soulful-Drive-Upload-Using-Flutter-Cloudinary&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
+    <a href="https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Soulful-Drive-Upload-Using-Flutter-Cloudinary&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+    <a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
 </p>
+
+<p align="center">
+    <a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
+</p>
+
 
 <p align="center">	
 	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
