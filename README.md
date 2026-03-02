@@ -94,11 +94,6 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 </p>
 
 
-<p align="center">	
-	<a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
-</p>
-
-
 <h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
 
 <p align="center">
