@@ -38,6 +38,7 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 	</a>
     <a href="https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Heart-Disease-Predictor&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
+	<br/>
 </p>	
 
 
@@ -57,16 +58,22 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 </p>
 
 
-<h3 align="center"> 🔬 Data Analysis Projects </h3>
+<summary><h3 align="center"> 🔬 Data Analysis Projects </h3></summary>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+    <a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+    <a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+    <a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+    <a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
 </p>
 
 
