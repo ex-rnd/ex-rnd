@@ -82,7 +82,7 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <p align="center">
     <a href="https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Soulful-Drive-Upload-Using-Flutter-Cloudinary&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
-    <a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" width="800" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
 	<br/>
 </p>
@@ -97,13 +97,20 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
 
 <p align="center">
-	<a href="https://github.com/ex-rnd/DarajaDance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&title_color=faffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+    <a href="https://github.com/ex-rnd/DarajaDance"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+    <a href="https://github.com/ex-rnd/NodeJSAPI"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=NodeJSAPI&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
 </p>
 
 
 <h3 align="center"> 🐍 Python | Kivy Projects </h3>
+
 <p align="center">
-	<a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a><br/>
+    <a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+	</a>
+	<br/>
 </p>
 
 
