@@ -34,9 +34,9 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-    <a href="https://github.com/ex-rnd/Streamlit-Obesity-Detector"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Obesity-Detector&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Streamlit-Obesity-Detector"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Obesity-Detector&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
-    <a href="https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Heart-Disease-Predictor&theme=react&bg_color=2A2D3E&title_color=FF6F61F&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Heart-Disease-Predictor&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
 	<br/>
 </p>	
