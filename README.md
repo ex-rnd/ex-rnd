@@ -50,9 +50,9 @@ I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantl
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
 <p align="center">
-    <a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
-    <a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
+    <a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
 	<br/>
 </p>
