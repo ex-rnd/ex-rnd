@@ -4,7 +4,6 @@
     alt="normal"
     width="300"
     height="300"
-    style="margin-right: 20px;"
   />
 
   <img 
@@ -12,7 +11,6 @@
     alt="mirrored"
     width="300"
     height="300"
-    style="transform: scaleX(-1); margin-left: 20px;"
   />
 </p>
 
