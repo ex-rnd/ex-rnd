@@ -31,11 +31,12 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 <!-- AI Models & Providers -->
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistral&logoColor=white)
 ![Kimi](https://img.shields.io/badge/-Kimi-000000?style=flat-square&logo=moon&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-000000?style=flat-square&logo=perplexity&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 <!-- AI Infra -->
@@ -51,7 +52,7 @@
 ![Chroma](https://img.shields.io/badge/-Chroma-FF6F00?style=flat-square&logo=apache-kafka&logoColor=white)
 
 <!-- AI SaaS / Tools -->
-![Perplexity](https://img.shields.io/badge/-Perplexity-000000?style=flat-square&logo=perplexity&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-6A5ACD?style=flat-square&logo=spark&logoColor=white)
 ![AI SaaS](https://img.shields.io/badge/-AI%20SaaS-6C63FF?style=flat-square&logo=cloudflare&logoColor=white)
 
 <!-- DevOps -->
@@ -60,7 +61,7 @@
 
 
 
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-6A5ACD?style=flat-square&logo=spark&logoColor=white)
+
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-1A73E8?style=flat-square&logo=google-cloud&logoColor=white)
 ![LiteLLM](https://img.shields.io/badge/-LiteLLM-000000?style=flat-square&logo=openai&logoColor=white)
@@ -85,7 +86,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Coolify](https://img.shields.io/badge/-Coolify-6C63FF?style=flat-square&logo=cloudflare&logoColor=white)
+
 
 
 
