@@ -17,7 +17,9 @@
 
 # Hi, I'm James 👋
 
-📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🚀 **Network Engineer**
+📍 **Nairobi ↔ Kenya**  
+🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
+
 
 <!-- AI Models & Providers -->
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -59,14 +61,7 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
-
-
-
-
-
-
-
-> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed. After 13+ years shipping native iOS, modern web feels like a breath of fresh air.
+> Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
 
 ## ❄️ Summary
