@@ -1,18 +1,20 @@
+<p align="center"></p>
 <p align="center">
   <img 
     src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
-    alt="normal"
+    alt="ex-rnd"
     width="300"
     height="300"
   />
-
   <img 
     src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
-    alt="mirrored"
+    alt="ex-rnd-2"
     width="300"
     height="300"
   />
 </p>
+<p align="center"></p>
+
 
 
 
