@@ -18,9 +18,6 @@
 ## ❄️ Hi, I'm James 👋
 ## 
 📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
-## 
-
-## 
 > Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 ##
 
