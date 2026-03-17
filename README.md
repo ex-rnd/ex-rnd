@@ -15,7 +15,7 @@
 </p>
 <p align="center"></p>
 
-# Hi, I'm James 👋
+## ❄️ Hi, I'm James 👋
 
 📍 **Nairobi ↔ Kenya**  
 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
@@ -60,14 +60,9 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-
+## 
 > Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
-
-
-## ❄️ Summary
-<h3 align="center">
-I am a Data Scientist who ❤️‍🔥 to solve deep learning problems elegantly 😎!
-</h3> 
+##
 
 ## ✳️ Ongoing Project(s)
 ### 📹 Spixah (Frontend)
