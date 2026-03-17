@@ -65,10 +65,6 @@
 	<video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" />
 </div>
 
-## ✨ Most Used Languages
-<p align="center">
-<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
-</p>
 
 ## ✴️ Best Project (s)
 
@@ -160,6 +156,13 @@
 <p align="center"> </p>
 <br/>
 <p align="center"> </p>
+
+
+## ✨ Most Used Languages
+<p align="center">
+<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
+</p>
+
 
 ## 🔵 Connect with me:
 <h3 align="center">
