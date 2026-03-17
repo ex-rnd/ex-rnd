@@ -22,9 +22,6 @@
 
 > 📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
 
-> I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
-##
-
 <!-- AI -->
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6A5ACD?style=flat-square&logo=spark&logoColor=white)
 ![AI SaaS](https://img.shields.io/badge/-AI%20SaaS-6C63FF?style=flat-square&logo=cloudflare&logoColor=white)
@@ -52,6 +49,9 @@
 ![Lean 4](https://img.shields.io/badge/-Lean%204-0F4C81?style=flat-square&logo=lean&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+
+> I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
+##
 
 
 ## ✳️ Ongoing Project(s)
