@@ -1,5 +1,3 @@
-
-
 <p align="center"></p>
 <p align="center">
   <img 
@@ -8,8 +6,15 @@
     width="300"
     height="300"
   />
+  <img 
+    src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
+    alt="ex-rnd-2"
+    width="300"
+    height="300"
+  />
 </p>
 <p align="center"></p>
+
 
 
 # Hi, I'm James 👋
