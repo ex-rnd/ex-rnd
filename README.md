@@ -66,12 +66,17 @@
 </div>
 
 
-## ✴️ Best Project (s)
+## ✴️ Completed Project (s)
 
 <summary><h3 align="center"> 🔥 Machine Learning Projects </h3></summary>
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+- 🦞 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
+- 🚇 **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
+- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
+- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
+- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
+- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
+- 
 <p align="center">
     <a href="https://github.com/ex-rnd/Streamlit-Obesity-Detector"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Streamlit-Obesity-Detector&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=false&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
 	</a>
