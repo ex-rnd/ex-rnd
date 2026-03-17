@@ -20,6 +20,9 @@
 📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
 ## 
 
+## 
+> Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
+##
 
 <!-- AI Models & Providers -->
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -60,9 +63,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## 
-> Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
-##
+
 
 ## ✳️ Ongoing Project(s)
 ### 📹 Spixah (Frontend)
