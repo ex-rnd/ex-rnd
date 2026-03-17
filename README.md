@@ -36,13 +36,13 @@
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/-Perplexity-000000?style=flat-square&logo=perplexity&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-000000?style=flat-square&logo=openai&logoColor=white)
 
 <!-- AI Infra -->
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6A5ACD?style=flat-square&logo=spark&logoColor=white)
 ![AI SaaS](https://img.shields.io/badge/-AI%20SaaS-6C63FF?style=flat-square&logo=cloudflare&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-1A73E8?style=flat-square&logo=google-cloud&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/-LiteLLM-000000?style=flat-square&logo=openai&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-111111?style=flat-square&logo=robot&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0073F1?style=flat-square&logo=pinecone&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-20B2AA?style=flat-square&logo=databricks&logoColor=white)
