@@ -1,5 +1,6 @@
 <!-- ![advanced-code-generation-development](https://github.com/user-attachments/assets/8c9ea1ba-c5a4-485d-829c-c1b45777442a) -->
 <!-- ![advanced-claude-code-agent-developer](https://github.com/user-attachments/assets/4c21fce2-938e-46da-b724-a9f638d77b57) -->
+
 <p align="center"></p>
 <p align="center">
   <img 
@@ -21,7 +22,7 @@
 
 > 📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
 
-> Locked into pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
+> I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 ##
 
 <!-- AI Models & Providers -->
