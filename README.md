@@ -52,11 +52,6 @@
 ![Lean 4](https://img.shields.io/badge/-Lean%204-0F4C81?style=flat-square&logo=lean&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-1A1A1A?style=flat-square&logo=rust&logoColor=white)
-
-
-
 
 
 ## ✳️ Ongoing Project(s)
