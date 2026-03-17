@@ -49,8 +49,10 @@
 ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-FF6F00?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Lean 4](https://img.shields.io/badge/-Lean%204-0F4C81?style=flat-square&logo=lean&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+
 
 
 
