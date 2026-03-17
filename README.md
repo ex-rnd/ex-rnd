@@ -1,10 +1,16 @@
-<p align="center"> </p>
-<p align="center"> <img src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt="ex-rnd" /> </p>
-<p align="center"> </p>
 
-<h3 align="center"> 
-	<h1 align="center"> Hey there, welcome ... 😎! </h1>
-</h3>
+
+<p align="center"></p>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
+    alt="ex-rnd"
+    width="300"
+    height="300"
+  />
+</p>
+<p align="center"></p>
+
 
 # Hi, I'm James 👋
 
