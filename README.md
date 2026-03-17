@@ -16,10 +16,9 @@
 <p align="center"></p>
 
 ## ❄️ Hi, I'm James 👋
-
-📍 **Nairobi ↔ Kenya**  
-🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
-
+## 
+📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
+## 
 
 <!-- AI Models & Providers -->
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
