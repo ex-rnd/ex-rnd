@@ -1,20 +1,21 @@
-<p align="center"></p>
 <p align="center">
   <img 
     src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
-    alt="ex-rnd"
+    alt="normal"
     width="300"
     height="300"
+    style="margin-right: 20px;"
   />
+
   <img 
     src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" 
-    alt="ex-rnd-2"
+    alt="mirrored"
     width="300"
     height="300"
-	style="transform: scaleX(-1);" 
+    style="transform: scaleX(-1); margin-left: 20px;"
   />
 </p>
-<p align="center"></p>
+
 
 
 
