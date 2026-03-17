@@ -56,6 +56,11 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![Erlang](https://img.shields.io/badge/-Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+![Lean 4](https://img.shields.io/badge/-Lean%204-0F4C81?style=flat-square&logo=lean&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
 
