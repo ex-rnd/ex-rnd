@@ -11,6 +11,7 @@
     alt="ex-rnd-2"
     width="300"
     height="300"
+	style="transform: scaleX(-1);" 
   />
 </p>
 <p align="center"></p>
