@@ -32,6 +32,8 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 <!-- AI Models & Providers -->
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral-000000?style=flat-square&logo=mistral&logoColor=white)
@@ -74,8 +76,7 @@
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
