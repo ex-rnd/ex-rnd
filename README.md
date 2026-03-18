@@ -10,6 +10,7 @@
     height="300"
   />
   &nbsp;
+  <p align="center"></p>
   &nbsp;
  <img 
     src="https://github.com/user-attachments/assets/4c21fce2-938e-46da-b724-a9f638d77b57" 
