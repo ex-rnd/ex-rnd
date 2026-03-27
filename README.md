@@ -61,33 +61,21 @@
 
 
 ## ✴️ Completed Project (s)
+<summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
+
+- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption..
+
+
 <summary><h3 align="center"> 🔥 Machine Learning Projects </h3></summary>
 
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
 
-<p align="center">
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
-- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
-- 👉 **[summarize](https://github.com/steipete/summarize)** - Point at any URL or file. Get the gist.
-- 🚦 **[RepoBar](https://github.com/steipete/RepoBar)** - CI, PRs, releases—at a glance
-</p>	
-
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
-<p align="center">
-    <a href="https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Music-Genre-Classification-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-    <a href="https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Speech-Emotion-Recognition-Using-Tensorflow&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
-
-<p align="center">
-    <a href="https://github.com/ex-rnd/Spotlit_2.0"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Spotlit_2.0&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-<br/>
-</p>
+- 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
+- ❤️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
 
 
 <summary><h3 align="center"> 🔬 Data Analysis Projects </h3></summary>
