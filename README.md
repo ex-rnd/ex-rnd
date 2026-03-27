@@ -1,15 +1,7 @@
 <!-- ![advanced-code-generation-development](https://github.com/user-attachments/assets/8c9ea1ba-c5a4-485d-829c-c1b45777442a) -->
 <!-- ![advanced-claude-code-agent-developer](https://github.com/user-attachments/assets/4c21fce2-938e-46da-b724-a9f638d77b57) -->
 
-<p align="center"> 
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/8c9ea1ba-c5a4-485d-829c-c1b45777442a" 
-    alt="ex-rnd-2"
-    width="300"
-    height="300"
-  />
-</p>
+<p align="center"></p>
   &nbsp;
 <p align="center"> 
  <img 
