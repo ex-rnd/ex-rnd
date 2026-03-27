@@ -14,7 +14,11 @@
 
 ## ❄️ Hi, I'm James 👋
 
-> 📍 **Nairobi ↔ Kenya** | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
+> 📍 **Nairobi ↔ Kenya**
+
+> | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
+
+> I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
 <!-- AI -->
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6A5ACD?style=flat-square&logo=spark&logoColor=white)
@@ -44,7 +48,6 @@
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 
-> I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 ##
 
 
