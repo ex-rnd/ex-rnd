@@ -65,53 +65,30 @@
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption..
 
-
 <summary><h3 align="center"> 🔥 Machine Learning Projects </h3></summary>
 
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
 
-
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
 - 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
-- ❤️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
-
+- 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
 
 <summary><h3 align="center"> 🔬 Data Analysis Projects </h3></summary>
 
-<p align="center">
-    <a href="https://github.com/ex-rnd/Sales-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Sales-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-    <a href="https://github.com/ex-rnd/WeightHeight-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=WeightHeight-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
+- 📈 **[Sales Data Dataset](https://github.com/ex-rnd/Sales-Dataset-Analysis)** - Sales data ETL and exploratory analysis notebook. A compact, reproducible demonstration of data sourcing, cleaning, feature engineering, exploratory data analysis, time-series and category-level revenue visualizations applied to a retail sales dataset.
+- 📐 **[Weight Height Dataset](https://github.com/ex-rnd/WeightHeight-Dataset-Analysis)** - Height and weight exploratory analysis. A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
+- 🦠 **[Covid 19 Dataset](https://github.com/ex-rnd/Covid-19-Dataset-Analysis)** -COVID-19 data preparation and univariate/correlation analysis notebook. A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
+- 🎬 **[Netflix Dataset](https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis)** - Provide a compact, reproducible demonstration of common data-preparation tasks that appear in analytics pipelines and model-ready preprocessing.
 
-<p align="center">
-    <a href="https://github.com/ex-rnd/Covid-19-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Covid-19-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-    <a href="https://github.com/ex-rnd/Netflix-Olympic-Dataset-Analysis"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Netflix-Olympic-Dataset-Analysis&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
+<summary><h3 align="center"> 📱Flutter Projects </h3></summary>
 
+- ⏫ **[Cloudinary Uploader](https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary)** - A lightweight Flutter app to provide a simple, reliable mobile UI for authenticated users to pick, upload, and preview media files while handling async operations safely and showing clear feedback.
+- 📝 **[ToDo Tasks App](https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate)** - Height and weight exploratory analysis. A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
+- 🍇 **[Fruits Track App](https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL)** -COVID-19 data preparation and univariate/correlation analysis notebook. A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
+- 🎬 **[InstaX Social](https://github.com/ex-rnd/soulful_android_app)** - A simple social media demo with core Instagram‑like features — photo sharing, profiles, feeds, and smooth, modern interactions.
 
-<h3 align="center"> 📱Flutter Projects </h3>
-
-<p align="center">
-    <a href="https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Soulful-Drive-Upload-Using-Flutter-Cloudinary&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-    <a href="https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=Flutter-Todo-App-Bloc-With-Hydrate&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
-
-<p align="center">
-    <a href="https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=FastAPI-Flutter-API-Integration-Using-Alembic-MySQL&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
 
 
 <h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
