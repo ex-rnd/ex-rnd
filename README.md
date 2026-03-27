@@ -77,8 +77,8 @@
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
-- 🎼 **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - This project trains and evaluates a Random Forest classifier to predict customer churn, using a structured preprocessing pipeline that prepares clean, balanced, and well‑scaled data for robust model performance.
-- 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
+- 🌪️ **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - This project trains and evaluates a Random Forest classifier to predict customer churn, using a structured preprocessing pipeline that prepares clean, balanced, and well‑scaled data for robust model performance.
+- 🤹 **[Credit Loan Predictor](https://github.com/ex-rnd/Loan-Prediction-Dataset)** - This project uses machine learning to help decide whether someone should get a loan. It looks at information about each person—like their income, job status, and credit history—and learns patterns from past loan decisions.
 
 - 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
 - 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
