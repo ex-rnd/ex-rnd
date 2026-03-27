@@ -77,7 +77,7 @@
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
-- 🎼 **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - A complete end‑to‑end machine‑learning workflow for predicting customer churn, featuring data cleaning, feature engineering, SMOTE balancing, Random Forest modeling, and clear evaluation to demonstrate a structured and reproducible analytics pipeline.
+- 🎼 **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - This project trains and evaluates a Random Forest classifier to predict customer churn, using a structured preprocessing pipeline that prepares clean, balanced, and well‑scaled data for robust model performance.
 - 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
 
 - 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
