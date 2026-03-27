@@ -87,28 +87,16 @@
 - ⏫ **[Cloudinary Uploader](https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary)** - A lightweight Flutter app to provide a simple, reliable mobile UI for authenticated users to pick, upload, and preview media files while handling async operations safely and showing clear feedback.
 - 📝 **[ToDo Tasks App](https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate)** - Height and weight exploratory analysis. A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
 - 🍇 **[Fruits Track App](https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL)** -COVID-19 data preparation and univariate/correlation analysis notebook. A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
-- 🎬 **[InstaX Social](https://github.com/ex-rnd/soulful_android_app)** - A simple social media demo with core Instagram‑like features — photo sharing, profiles, feeds, and smooth, modern interactions.
+- 🥳 **[InstaX Social App](https://github.com/ex-rnd/soulful_android_app)** - A simple social media demo with core Instagram‑like features — photo sharing, profiles, feeds, and smooth, modern interactions.
 
+<summary><h3 align="center"> 🕸️ NodeJS | Express Projects </h3></summary>
 
+- 💸 **[DarajaDance](https://github.com/ex-rnd/DarajaDance)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API, complete with live ngrok tunneling, EJS views, and polling for transaction status.
+- 🚪 **[NodeJS API](https://github.com/ex-rnd/NodeJSAPI)** - NodeJSAPI is a TypeScript-powered Express API with EJS templating, middleware for logging, authentication, and error handling.
 
-<h3 align="center"> 🕸️ NodeJS | Express Projects </h3>
+<summary><h3 align="center"> 🐍 Python | Kivy Projects </h3></summary>
 
-<p align="center">
-    <a href="https://github.com/ex-rnd/DarajaDance"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=DarajaDance&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-    <a href="https://github.com/ex-rnd/NodeJSAPI"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=NodeJSAPI&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
-
-
-<h3 align="center"> 🐍 Python | Kivy Projects </h3>
-
-<p align="center">
-    <a href="https://github.com/ex-rnd/GreenEnergy"><img align="center" width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ex-rnd&repo=GreenEnergy&theme=react&bg_color=2A2D3E&title_color=FF6F61&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg">
-	</a>
-	<br/>
-</p>
+- 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
 
 
 <p align="center"> </p>
