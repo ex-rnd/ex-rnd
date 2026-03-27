@@ -58,6 +58,10 @@
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
 
+<p align="center"> </p>
+<br/>
+<p align="center"> </p>
+
 
 ## ✳️ Ongoing Project(s)
 ### 📹 Spixah (Frontend)
