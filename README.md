@@ -16,7 +16,9 @@
 
 > 📍 **Nairobi ↔ Kenya**
 
-> | 🤖 **AI Engineer** | 🛠️ **Data Engineer** | 🧠 **Data Scientist** | 🚀 **Network Engineer**
+> | 🤖 **AI Engineer** | 🛠️ **Data Engineer**
+
+> | 🧠 **Data Scientist** | 🚀 **Data Analyst**
 
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
@@ -74,6 +76,9 @@
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
+
+- 🎼 **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - A complete end‑to‑end machine‑learning workflow for predicting customer churn, featuring data cleaning, feature engineering, SMOTE balancing, Random Forest modeling, and clear evaluation to demonstrate a structured and reproducible analytics pipeline.
+- 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
 
 - 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
 - 🗣️ **[Speech Emotion Classifier](https://github.com/ex-rnd/Speech-Emotion-Recognition-Using-Tensorflow)** - A jupyter notebook for predicting emotions from speech. A deep‐learning project that classifies speech into one of seven emotions using an LSTM‐based model.
