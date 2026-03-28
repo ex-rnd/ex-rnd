@@ -36,7 +36,6 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-ffffff20?style=flat-square&logo=copilot&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Cowork](https://img.shields.io/badge/-Cowork-4B275F?style=flat-square&logo=briefcase&logoColor=white)
-![Cowork](https://img.shields.io/badge/-Claude%20Code-4B275F?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
