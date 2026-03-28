@@ -84,7 +84,8 @@
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
-- 🌪️ **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset/tree/main)** - This project trains and evaluates a Random Forest classifier to predict customer churn, using a structured preprocessing pipeline that prepares clean, balanced, and well‑scaled data for robust model performance.
+- 🏡 **[House Price Predictor](https://github.com/ex-rnd/House_Price_Prediction)** - This project trains and evaluates regression models to predict Boston house prices, using a structured preprocessing pipeline that produces clean, well‑organized data for accurate and reliable model performance.
+- 🌪️ **[Customer Churn Predictor](https://github.com/ex-rnd/Customer-Churn-Dataset)** - This project trains and evaluates a Random Forest classifier to predict customer churn, using a structured preprocessing pipeline that prepares clean, balanced, and well‑scaled data for robust model performance.
 - 🤹 **[Credit Loan Predictor](https://github.com/ex-rnd/Loan-Prediction-Dataset)** - This project uses machine learning to help decide whether someone should get a loan. It looks at information about each person—like their income, job status, and credit history—and learns patterns from past loan decisions.
 
 - 🎼 **[Music Genre Classifier](https://github.com/ex-rnd/Music-Genre-Classification-Using-Tensorflow)** - A jupyter notebook for predicting a music genre from speech. A deep-learning project that classifies short audio clips into one of ten music genres using a CNN-based spectrogram model.
