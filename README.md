@@ -73,7 +73,7 @@
 <p align="center"> </p>
 
 
-## 🌠 Agentic AI Project(s)
+## 🔮 Agentic AI Project(s)
 
 <details>
   <summary><h3 align="center"> 🤖 Large Language Models (LLMs) </h3></summary>
