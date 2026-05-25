@@ -32,6 +32,7 @@
 ![Copilot](https://img.shields.io/badge/-Copilot-ffffff20?style=flat-square&logo=copilot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-111111?style=flat-square&logo=robot&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Manus AI Agent](https://img.shields.io/badge/-Manus%20AI%20Agent-8A2BE2?style=flat-square&logo=robot&logoColor=white)
 ![Cowork](https://img.shields.io/badge/-Cowork-4B275F?style=flat-square&logo=briefcase&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0073F1?style=flat-square&logo=pinecone&logoColor=white)
@@ -102,7 +103,7 @@
 </details>
 
 <details>
-  <summary><h3 align="center"> 🌐 Integrations & Agents </h3></summary>
+  <summary><h3 align="center"> 🌐 MCP Servers </h3></summary>
 
   - [🌐 API integrations](https://example.com)
   - [📊 Vector DBs (Pinecone, Weaviate)](https://example.com)
