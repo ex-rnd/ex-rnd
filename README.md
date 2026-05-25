@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary><h3 align="center"> 🔄 Workflow % Pipeline Automation </h3></summary>
+  <summary><h3 align="center"> 🔄 Workflow & Pipeline Automation </h3></summary>
 
   - [⚙️ n8n](https://example.com)
   - [⚡ Zappier](https://example.com)
