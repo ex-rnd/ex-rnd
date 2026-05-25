@@ -72,16 +72,17 @@
 <p align="center"> </p>
 
 
-## ✳️ Ongoing Project(s)
-### 📹 Spixah (Frontend)
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/cbeab10d-8b61-4ca5-85de-8684f7c66584" width="400" controls></video>
-</div>
+## 🌠 Agentic AI Project(s)
 
-### 📹 Spixah (Backend)
-<div align="center">
-	<video src="https://github.com/user-attachments/assets/cc8bda65-44df-4d9c-b62d-662da55c1c03" width="400" />
-</div>
+<details>
+  <summary><h3 align="center"> ✨ n8n </h3></summary>
+
+  - [My App 1](https://example.com)
+  - [My App 2](https://example.com)
+  - [My App 3](https://example.com)
+
+</details>
+
 
 
 ## ✴️ Completed Project (s)
@@ -127,13 +128,6 @@
 <br/>
 <p align="center"> </p>
 
-
-## ✨ Most Used Languages
-<div>
-<p align="center">
-<img align="left" width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-rnd&layout=compact&theme=buefy&hide_border=true" />   
-</p>
-</div>
 
 ## 🔵 Connect with me:
 <h3 align="center">
