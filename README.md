@@ -119,6 +119,10 @@
 
 </details>
 
+<p align="center"> </p>
+<br/>
+<p align="center"> </p>
+
 
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
