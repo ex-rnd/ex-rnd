@@ -79,6 +79,8 @@
   <summary><h3 align="center"> 🤖 Large Language Models (LLMs) </h3></summary>
 
   - [🧠 ChatGPT](https://example.com)
+  - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption..
+
   - [📖 Ollama](https://example.com)
   - [🔗 Langchain](https://example.com)
 
