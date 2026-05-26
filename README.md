@@ -73,60 +73,6 @@
 <p align="center"> </p>
 
 
-## 🔮 Agentic AI Project(s)
-
-<details>
-  <summary><h3 align="center"> 🤖 Large Language Models (LLMs) </h3></summary>
-
-  - [🧠 ChatGPT](https://example.com)
-  - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption..
-
-  - [📖 Ollama](https://example.com)
-  - [🔗 Langchain](https://example.com)
-
-</details>
-
-<details>
-  <summary><h3 align="center"> 🔄 Workflow & Pipeline Automation </h3></summary>
-
-  - [⚙️ n8n](https://example.com)
-  - [⚡ Zappier](https://example.com)
-  - [🌬️ Airflow](https://example.com)
-
-</details>
-
-<details>
-  <summary><h3 align="center"> 🛠️ Infrastructure & Orchestration </h3></summary>
-
-  - [🐳 Docker](https://example.com)
-  - [⚓ Kubernetes](https://example.com)
-  - [🌍 Terraform](https://example.com)
-
-</details>
-
-<details>
-  <summary><h3 align="center"> 🌐 MCP Servers </h3></summary>
-
-  - [🌐 API integrations](https://example.com)
-  - [📊 Vector DBs (Pinecone, Weaviate)](https://example.com)
-  - [📚 Retrieval tools (RAG)](https://example.com)
-
-</details>
-
-<details>
-  <summary><h3 align="center"> 🖧 Integrations & Agents </h3></summary>
-
-  - [🛰️ Claude MCP](https://example.com)
-  - [🗄️ Local MCP)](https://example.com)
-  - [🔌 Custom MCP](https://example.com)
-
-</details>
-
-<p align="center"> </p>
-<br/>
-<p align="center"> </p>
-
-
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
 
