@@ -14,7 +14,7 @@
 
 ## ❄️ Hi, I'm James 👋
 
-> ✨ See my portfolio: [Awesome Portfolio](https://suretact.soullets.com/)
+> ✨ See my portfolio: [Portfolio](https://ex-rnd.soullets.com/)
 
 > 📍 **Nairobi ↔ Kenya**
 
