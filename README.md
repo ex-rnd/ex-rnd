@@ -62,7 +62,7 @@
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary>
 
-- ✨ **[Awesome Portfolio](https://suretact.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed. 
+- ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed. 
 - 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API 💳, complete with live ngrok tunneling, EJS views, and polling for transaction status.
 - 🛒 **[GoCart Ecommerce](https://gocart.soullets.com/)** - A modern Necommerce platform built with Next.js and Tailwind CSS, designed for selling electronics and accessories with a sleek neon‑inspired UI.
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
