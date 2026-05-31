@@ -72,7 +72,7 @@
 <br/>
 <p align="center"> </p>
 
-## 🌀 Novel Flagship LongTerm Project(s)
+## 🌀 Flagship LongTerm Project(s)
 <summary><h3 align="center"> 𓂃🪶 Spixah Social </h3></summary>
 
 <p align="center"><strong>Frontend</strong></p>
