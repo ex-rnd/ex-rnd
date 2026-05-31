@@ -72,6 +72,14 @@
 <br/>
 <p align="center"> </p>
 
+## 🌀 Novel Flagship LongTerm Project(s)
+<summary><h3 align="center"> 𓂃🪶 Spixah Social </h3></summary>
+<p align="center"> Frontend </p>
+https://github.com/user-attachments/assets/cab6d78b-5201-4315-b800-72bf583e17fd
+
+<p align="center"> Backend </p>
+https://github.com/user-attachments/assets/7bf7e051-0666-4cd9-91e3-46417f2c49e8
+
 
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
