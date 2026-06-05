@@ -57,6 +57,8 @@
 
 ##
 
+---
+
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary>
 
@@ -65,6 +67,8 @@
 - 🛒 **[GoCart Ecommerce](https://gocart.soullets.com/)** - A modern Necommerce platform built with Next.js and Tailwind CSS, designed for selling electronics and accessories with a sleek neon‑inspired UI.
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
+
+---
 
 <p align="center"> </p>
 <br/>
@@ -120,28 +124,8 @@
 
 </details>
 
-
-
 ---
 
-<summary><h3 align="center"> 💫 Spixah Social </h3></summary>
-
-- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
-
-<p align="center"><strong>Frontend</strong></p>
-<div align="center">
-<video src="https://github.com/user-attachments/assets/cab6d78b-5201-4315-b800-72bf583e17fd" width="500" controls></video>
-</div>
-
-<p align="center"><strong>Backend</strong></p>
-<div align="center">
-<video src="https://github.com/user-attachments/assets/7bf7e051-0666-4cd9-91e3-46417f2c49e8" width="500" controls></video>
-</div>
-
-<p align="center"> </p>
-<br/>
-<p align="center"> </p>
-  
 
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
