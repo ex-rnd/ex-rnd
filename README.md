@@ -18,7 +18,7 @@
 
 > 📍 **Nairobi ↔ Kenya**
 
-> | 🧠 **Agentic AI Engineer** 
+> 🧠 **Agentic AI Engineer** 
 
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
@@ -86,7 +86,11 @@
 </details>
 
 <details>
-  <summary> <strong> 🛡️Hakika Timara📜 </strong> </summary>
+  <summary> 
+	  <div align="center">
+	  <strong> 🛡️Hakika Timara📜 </strong> 
+	  </div>
+  </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -95,7 +99,11 @@
 </details>
 
 <details>
-  <summary> <strong> 🦋Zero Term♻️ </strong> </summary>
+  <summary> 
+	  <div align="center">
+	  <strong> 🦋Zero Term♻️ </strong> 
+	  </div>
+  </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
