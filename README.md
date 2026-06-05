@@ -56,7 +56,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 
 ##
-
 ---
 
 ## 🌠 Live App(s)
@@ -70,9 +69,6 @@
 
 ---
 
-<p align="center"> </p>
-<br/>
-<p align="center"> </p>
 
 ## 🌀 Ongoing Project(s)
 
@@ -170,11 +166,16 @@
 <br/>
 <p align="center"> </p>
 
+---
+
 
 ## 🔵 Connect with me:
 <h3 align="center">
 <a href="https://linkedin.com/in/james-kilonzo-0aa2b1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kilonzo-0aa2b1197" height="30" width="40" /></a> <br/>	
 </h3>
+
+---
+
 
 ## 🛠️ My Favorite Tools
 
@@ -243,6 +244,9 @@
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+---
+
+
 ## 🔥 GitHub Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -252,6 +256,8 @@
 <p align="center"> <h3 align = "center"> If you can dream it, you can do it 🔥</h3> </p>
 </p>
 &nbsp;&nbsp;
+
+---
 
 
 ## :book: Guestbook</h2>
