@@ -14,7 +14,7 @@
 
 ## ❄️ Hi, I'm James 👋
 
-> ✨ My Portfolio: [Portfolio](https://ex-rnd.soullets.com/)
+> ✨ **Portfolio**: [**Ex-R&D**](https://ex-rnd.soullets.com/)
 
 > 📍 **Nairobi ↔ Kenya**
 
@@ -75,7 +75,7 @@
  <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🪽Cloud Angel🐙 </strong> 
+	  <strong> 🪽 Cloud Angel 🐙 </strong> 
 	  </div>
   </summary>
 
@@ -88,7 +88,7 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🛡️Hakika Timara📜 </strong> 
+	  <strong> 🛡️ Hakika Timara 📜 </strong> 
 	  </div>
   </summary>
 
@@ -101,18 +101,9 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🦋Zero Term♻️ </strong> 
+	  <strong> 🦋 Zero Term ♻️ </strong> 
 	  </div>
   </summary>
-
-  1. Clone the repo  
-  2. Run `npm install`  
-  3. Start with `npm run dev`
-
-</details>
-
-<details>
-  <summary> 💫 Spixah Social </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -124,7 +115,9 @@
 
 
 ## ✴️ Completed Project (s)
-<summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
+<summary><h3 align="center"> ✨ Agentic AI Projects </h3></summary>
+
+- 🌠 **[Fast MCP Server](https://github.com/ex-rnd/fast-mcp-server)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 
