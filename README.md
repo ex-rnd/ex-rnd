@@ -18,9 +18,7 @@
 
 > 📍 **Nairobi ↔ Kenya**
 
-> | 🤖 **AI Engineer** | 🛠️ **Data Engineer**
-
-> | 🧠 **Data Scientist** | 🚀 **Data Analyst**
+> | 🧠 **Agentic AI Engineer** 
 
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
