@@ -75,7 +75,7 @@
 ## 🌀 Ongoing Project(s)
 
  <details>
-  <summary> ### **🪽 Cloud Angel 🐙** </summary>
+  <summary> <strong>🪽 Cloud Angel 🐙</strong>strong> </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
