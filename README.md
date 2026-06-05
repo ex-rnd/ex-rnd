@@ -59,7 +59,7 @@
 ---
 
 ## 🌠 Live App(s)
-<summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> ⚡️
+<summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
 
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
 - ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
