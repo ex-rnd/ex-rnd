@@ -14,7 +14,7 @@
 
 ## ❄️ Hi, I'm James 👋
 
-> ✨ See my portfolio: [Portfolio](https://ex-rnd.soullets.com/)
+> ✨ My Portfolio: [Portfolio](https://ex-rnd.soullets.com/)
 
 > 📍 **Nairobi ↔ Kenya**
 
@@ -75,7 +75,7 @@
 ## 🌀 Ongoing Project(s)
 
  <details>
-  <summary> `*🪽 Cloud Angel 🐙*` </summary>
+  <summary> *🪽 Cloud Angel 🐙* </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary> `*⏳ Hakika Timamu ⌛*` </summary>
+  <summary> *⏳ Hakika Timamu ⌛* </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -93,7 +93,7 @@
 </details>
 
 <details>
-  <summary> `*🦉 Zero Term 0️⃣*` </summary>
+  <summary> *🦉 Zero Term 0️⃣* </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
