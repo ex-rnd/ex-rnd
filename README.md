@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary> <strong>⏳ Hakika Timamu ⌛</strong> </summary>
+  <summary> <strong>⏳ Hakika Timara ⌛</strong> </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
