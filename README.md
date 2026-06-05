@@ -73,12 +73,33 @@
 <p align="center"> </p>
 
 ## 🌀 Ongoing Project(s)
-###
 
-### 🧠 **How it works**
-- **`<summary>`** = the visible clickable label  
-- **Everything else inside `<details>`** = hidden until expanded  
-- Works in **README.md**, issues, PRs, and GitHub Pages Markdown  
+ <details>
+  <summary> 🧠 Cloud Angel </summary>
+
+  1. Clone the repo  
+  2. Run `npm install`  
+  3. Start with `npm run dev`
+
+</details>
+
+<details>
+  <summary> 💫 Spixah Social </summary>
+
+  1. Clone the repo  
+  2. Run `npm install`  
+  3. Start with `npm run dev`
+
+</details>
+
+<details>
+  <summary> 🧠 Spixah Social </summary>
+
+  1. Clone the repo  
+  2. Run `npm install`  
+  3. Start with `npm run dev`
+
+</details>
 
 ---
 
