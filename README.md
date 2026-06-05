@@ -65,8 +65,8 @@
 - ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 - 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API 💳, complete with live ngrok tunneling, EJS views, and polling for transaction status.
 - 🛒 **[GoCart Ecommerce](https://gocart.soullets.com/)** - A modern Necommerce platform built with Next.js and Tailwind CSS, designed for selling electronics and accessories with a sleek neon‑inspired UI.
-- 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
-- ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit web app that predicts the risk of heart disease using a trained Logistic Regression model.
+- 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
+- ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 ---
 
@@ -118,9 +118,13 @@
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Agentic AI Projects </h3></summary>
 
-- 🌠 **[Fast MCP Server](https://github.com/ex-rnd/fast-mcp-server)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
+- ⚡️ **[Fast MCP Server](https://github.com/ex-rnd/fast-mcp-server)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
+
+- 🕵🏽 **[Obesity Detector](https://github.com/ex-rnd/Streamlit-Obesity-Detector)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
+
+- ❤️ **[Heart Disease Predictor](https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 
 <summary><h3 align="center"> 🕸️ NextJS Web Applications </h3></summary>
