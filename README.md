@@ -83,7 +83,6 @@
 ---
 
 ### ⭐ Example you can paste directly
-```markdown
 <details>
   <summary>Show installation steps</summary>
 
