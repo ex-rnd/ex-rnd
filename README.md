@@ -122,6 +122,8 @@
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 
+<summary><h3 align="center"> 🌊 Deep Learning (ML) Projects </h3></summary>
+
 - 🕵🏽 **[Obesity Detector](https://github.com/ex-rnd/Streamlit-Obesity-Detector)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
 
 - ❤️ **[Heart Disease Predictor](https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
