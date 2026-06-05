@@ -73,7 +73,29 @@
 <p align="center"> </p>
 
 ## 🌀 Ongoing Project(s)
+###
+
+### 🧠 **How it works**
+- **`<summary>`** = the visible clickable label  
+- **Everything else inside `<details>`** = hidden until expanded  
+- Works in **README.md**, issues, PRs, and GitHub Pages Markdown  
+
+---
+
+### ⭐ Example you can paste directly
+```markdown
+<details>
+  <summary>Show installation steps</summary>
+
+  1. Clone the repo  
+  2. Run `npm install`  
+  3. Start with `npm run dev`
+</details>
+
+###
 <summary><h3 align="center"> 💫 Spixah Social </h3></summary>
+
+- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 
 <p align="center"><strong>Frontend</strong></p>
 <div align="center">
@@ -93,7 +115,7 @@
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Gen AI Projects </h3></summary>
 
-- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption..
+- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
