@@ -82,16 +82,6 @@
 
 ---
 
-### ⭐ Example you can paste directly
-<details>
-  <summary>Show installation steps</summary>
-
-  1. Clone the repo  
-  2. Run `npm install`  
-  3. Start with `npm run dev`
-</details>
-
-###
 <summary><h3 align="center"> 💫 Spixah Social </h3></summary>
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
