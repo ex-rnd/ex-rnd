@@ -75,7 +75,7 @@
 ## 🌀 Ongoing Project(s)
 
  <details>
-  <summary> <strong>🪽 Cloud Angel 🐙</strong>strong> </summary>
+  <summary> <strong>🪽 Cloud Angel 🐙</strong> </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-  <summary> *⏳ Hakika Timamu ⌛* </summary>
+  <summary> <strong>⏳ Hakika Timamu ⌛</strong> </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
@@ -93,7 +93,7 @@
 </details>
 
 <details>
-  <summary> *🦉 Zero Term 0️⃣* </summary>
+  <summary> <strong>🦉 Zero Term 0️⃣</strong> </summary>
 
   1. Clone the repo  
   2. Run `npm install`  
