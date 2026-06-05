@@ -59,9 +59,10 @@
 ---
 
 ## 🌠 Live App(s)
-<summary><h3 align="center"> ✨ Deployed App(s) </h3></summary>
+<summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> ⚡️
 
-- ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed. 
+- ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
+- ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 - 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API 💳, complete with live ngrok tunneling, EJS views, and polling for transaction status.
 - 🛒 **[GoCart Ecommerce](https://gocart.soullets.com/)** - A modern Necommerce platform built with Next.js and Tailwind CSS, designed for selling electronics and accessories with a sleek neon‑inspired UI.
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit web app that predicts the obesity level of a person using a trained Deep Learning model.
@@ -120,6 +121,12 @@
 - 🌠 **[Fast MCP Server](https://github.com/ex-rnd/fast-mcp-server)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
+
+
+<summary><h3 align="center"> 🕸️ NextJS Web Applications </h3></summary>
+
+- ✨ **[Awesome Portfolio](https://github.com/ex-rnd/nextjs-portfolio)** - A modern Next.js 16 portfolio built with Tailwind, React, and Shadcn components — featuring a fully‑wired contact form (template only, messages not yet functional).
+
 
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
