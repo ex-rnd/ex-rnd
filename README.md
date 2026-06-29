@@ -74,32 +74,6 @@
 
 ## 🌀 Ongoing Project(s)
 
- <details>
-  <summary> 
-	  <div align="center">
-	  <strong> 🪽 Cloud Angel 🐙 </strong> 
-	  </div>
-  </summary>
-
-  1. Clone the repo  
-  2. Run `npm install`  
-  3. Start with `npm run dev`
-
-</details>
-
-<details>
-  <summary> 
-	  <div align="center">
-	  <strong> 🛡️ Hakika Timara 📜 </strong> 
-	  </div>
-  </summary>
-
-  1. Clone the repo  
-  2. Run `npm install`  
-  3. Start with `npm run dev`
-
-</details>
-
 <details>
   <summary> 
 	  <div align="center">
@@ -123,7 +97,7 @@
 
 - 🤖 **[LangChain Chatbot](https://github.com/ex-rnd/ai-rag-langchain-nextjs)** - A Next.js + LangChain + Ollama-powered AI chat application that supports streaming responses, custom personas, prompt templates, and local LLMs such as Qwen, Mistral, and others via the OpenAI‑compatible Ollama API.
 
-- 🧠 **[Multi‑Agentic AI System](https://github.com/ex-rnd/ai-rag-langchain-nextjs)** - A local multi‑agent AI chatbot powered by a Node.js/Express backend, a NextJS/React/Vite frontend, and a locally‑running Ollama LLM. User messages are intelligently routed to specialized AI agents — each with its own domain expertise and system persona — enabling accurate, domain‑specific responses.
+- 🧠 **[Multi‑Agentic AI System](https://github.com/ex-rnd/multi-agentic-ai)** - A local multi‑agent AI chatbot powered by a Node.js/Express backend, a NextJS/React/Vite frontend, and a locally‑running Ollama LLM. User messages are intelligently routed to specialized AI agents — each with its own domain expertise and system persona — enabling accurate, domain‑specific responses.
 
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 
