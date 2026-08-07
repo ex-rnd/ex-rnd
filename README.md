@@ -90,9 +90,20 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🛡️ Hakika Timara 📜 </strong> 
+	  <strong> 🛡️ Soullets 📜 </strong> 
 	  </div>
   </summary>
+	
+<p align="center"><strong>Frontend</strong></p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/cab6d78b-5201-4315-b800-72bf583e17fd" width="500" controls></video>
+</div>
+
+<p align="center"><strong>Backend</strong></p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/7bf7e051-0666-4cd9-91e3-46417f2c49e8" width="500" controls></video>
+</div>
+
 </details>
 
 <details>
