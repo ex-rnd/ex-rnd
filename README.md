@@ -90,7 +90,7 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🛡️ Soullets 📜 </strong> 
+	  <strong> 🛡️ Soullets (Spixah) 📜 </strong> 
 	  </div>
   </summary>
 	
