@@ -70,7 +70,7 @@
 
 ---
 ## 🫡 Original Project (s)
-<summary><h3 align="center"> ✨ Original(s) </h3></summary>
+<summary><h3 align="center"> ✨ Original (s) </h3></summary>
 
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
@@ -79,6 +79,21 @@
 
 
 ## 🌀 Ongoing Project(s)
+ <details>
+  <summary> 
+	  <div align="center">
+	  <strong> 🪽 Cloud Angel 🐙 </strong> 
+	  </div>
+  </summary>
+</details>
+
+<details>
+  <summary> 
+	  <div align="center">
+	  <strong> 🛡️ Hakika Timara 📜 </strong> 
+	  </div>
+  </summary>
+</details>
 
 <details>
   <summary> 
@@ -86,11 +101,6 @@
 	  <strong> 🦋 Zero Term ♻️ </strong> 
 	  </div>
   </summary>
-
-  1. Clone the repo  
-  2. Run `npm install`  
-  3. Start with `npm run dev`
-
 </details>
 
 ---
