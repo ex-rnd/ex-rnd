@@ -70,13 +70,12 @@
 
 ---
 ## 🫡 Original Project (s)
-<summary><h3 align="center"> ✨ Agentic AI Projects </h3></summary>
+<summary><h3 align="center"> ✨ Original(s) </h3></summary>
 
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 - 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
 - ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
-
 
 
 ## 🌀 Ongoing Project(s)
