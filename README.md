@@ -65,11 +65,18 @@
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
 - ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 - 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API 💳, complete with live ngrok tunneling, EJS views, and polling for transaction status.
-- 🛒 **[GoCart Ecommerce](https://gocart.soullets.com/)** - A modern Necommerce platform built with Next.js and Tailwind CSS, designed for selling electronics and accessories with a sleek neon‑inspired UI.
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 ---
+## 🫡 Original Project (s)
+<summary><h3 align="center"> ✨ Agentic AI Projects </h3></summary>
+
+- 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
+- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
+- 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
+- ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
+
 
 
 ## 🌀 Ongoing Project(s)
@@ -134,7 +141,7 @@
 
 - ⏫ **[Cloudinary Uploader](https://github.com/ex-rnd/Soulful-Drive-Upload-Using-Flutter-Cloudinary)** - A lightweight Flutter app to provide a simple, reliable mobile UI for authenticated users to pick, upload, and preview media files while handling async operations safely and showing clear feedback.
 - 📝 **[ToDo Tasks App](https://github.com/ex-rnd/Flutter-Todo-App-Bloc-With-Hydrate)** - Height and weight exploratory analysis. A compact, reproducible demonstration of loading, describing, visualizing, testing distributional assumptions, and performing correlation analysis on a height/weight dataset.
-- 🍇 **[Fruits Track App](https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL)** -COVID-19 data preparation and univariate/correlation analysis notebook. A compact, reproducible demonstration of common data-preparation tasks used in analytics pipelines and model-ready preprocessing applied to a COVID-19 dataset.
+- 🍇 **[Fruits Track App](https://github.com/ex-rnd/FastAPI-Flutter-API-Integration-Using-Alembic-MySQL)** - A simple frontend-backend project that exposes a FastAPI REST API back-end and a Flutter frontend to showcase API integration, Pydantic Schemas, Alembic Migrations and SQLAlchemy ORM models.
 - 🥳 **[InstaX Social App](https://github.com/ex-rnd/soulful_android_app)** - A simple social media demo with core Instagram‑like features — photo sharing, profiles, feeds, and smooth, modern interactions.
 
 <summary><h3 align="center"> 🕸️ NodeJS | Express Projects </h3></summary>
