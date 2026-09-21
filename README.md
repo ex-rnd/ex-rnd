@@ -68,9 +68,10 @@
 <summary><h3 align="center"> ✨ Active </h3></summary> 
 
 - 🧮 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
-- 🪵 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
+- 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
 
 
+---
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
 
@@ -91,7 +92,7 @@
 - ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
 
 
-## 🌀 Longterm Project(s)
+## 🌀 Hobby Project(s)
  <details>
   <summary> 
 	  <div align="center">
