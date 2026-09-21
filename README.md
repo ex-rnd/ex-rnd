@@ -64,7 +64,7 @@
 ##
 ---
 
-## ☀️ Ongoing Freelance Project(s)
+## ☀️ Ongoing Project(s)
 <summary><h3 align="center"> ✨ Under Development(s) </h3></summary> 
 
 - 🌿 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
@@ -91,7 +91,7 @@
 - ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
 
 
-## 🌀 Ongoing Project(s)
+## 🌀 Longterm Project(s)
  <details>
   <summary> 
 	  <div align="center">
