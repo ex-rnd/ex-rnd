@@ -18,7 +18,12 @@
 
 > 📍 **Nairobi ↔ Kenya**
 
-> 🧠 **Agentic AI Engineer** 
+> 🧠 **Agentic AI Engineer**
+
+> 😎 **AI Mathematical Physicist**
+> 🌤️ **Prolegomena to Nullotopy Geometry**: [**Nullotopy Geometry Foundations**](https://zenodo.org/records/22647305)
+> 🌅 **Triality Quotient Paper**: [**4-2-2 Bridge**](https://zenodo.org/records/21983262)
+
 
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
