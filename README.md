@@ -65,10 +65,10 @@
 ---
 
 ## ☀️ Ongoing Project(s)
-<summary><h3 align="center"> ✨ Under Development(s) </h3></summary> 
+<summary><h3 align="center"> ✨ Active </h3></summary> 
 
-- 🌿 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
-- ✨ **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
+- 🧮 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
+- 🪵 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
 
 
 ## 🌠 Live App(s)
