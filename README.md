@@ -24,10 +24,7 @@
 
 > Original Ideas + AI-Assisted Proofs.
 
->> 🌤️ [**Nullotopy Geometry Foundations**](https://zenodo.org/records/22647305) : **Prolegomena to Nullotopy Geometry**
-
->> 🌅 [**(Older Version 1)**](https://zenodo.org/records/21983262) : **Triality Quotient Paper**: 
-
+>> 🌤️ [**Nullotopy Geometry Foundations**](https://zenodo.org/records/22647305) : **Prolegomena to Nullotopy Geometry** 🌅 [**(Older Version 1)**](https://zenodo.org/records/21983262)
 
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
@@ -66,6 +63,13 @@
 
 ##
 ---
+
+## ☀️ Ongoing Freelance Project(s)
+<summary><h3 align="center"> ✨ Under Development(s) </h3></summary> 
+
+- 🌿 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
+- ✨ **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
+
 
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
