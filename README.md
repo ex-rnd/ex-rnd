@@ -122,7 +122,7 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🦋 Money Trust ♻️ </strong> 
+	  <strong> 🦋 Trust Terms ♻️ </strong> 
 	  </div>
   </summary>
 </details>
