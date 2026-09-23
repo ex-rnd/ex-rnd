@@ -122,7 +122,7 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🦋 Zero Term ♻️ </strong> 
+	  <strong> 🦋 Money Trust ♻️ </strong> 
 	  </div>
   </summary>
 </details>
