@@ -71,7 +71,7 @@
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
 
 <span style="color:red; font-weight:bold;">
-Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
+- Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
 </span>
 
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
