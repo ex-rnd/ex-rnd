@@ -122,7 +122,7 @@
 <details>
   <summary> 
 	  <div align="center">
-	  <strong> 🦋 Trust Terms ♻️ </strong> 
+	  <strong> 🦋 Trust Terms 🦋 </strong> 
 	  </div>
   </summary>
 </details>
