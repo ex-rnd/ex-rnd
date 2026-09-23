@@ -20,12 +20,6 @@
 
 > 🧠 **Agentic AI Engineer**
 
-<!--## 🔆 Maths-Physics Papers 🍳-->
-<!---->
-<!--> Original Ideas + AI-Assisted Proofs.-->
-<!-- -->
-<!-->> 🌤️ [**Prolegomena to Nullotopy Geometry**](https://zenodo.org/records/22647305) : [**(See v2)**](https://zenodo.org/records/22647305) [**(See v1)**](https://zenodo.org/records/21983262) -->
-
 > I am locked into a pure flow-state — forging AI‑powered dev tools at a pace that borders on unreasonable.
 
 <!-- AI -->
