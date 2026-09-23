@@ -70,11 +70,14 @@
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
 
-<details>
+<h2>
 <span style="color:red; font-weight:bold;">
 - Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
 </span>
-</details>
+</h2>
+
+> 🔴 **Note:** If the live apps are not reachable or not operating seamlessly, then the host server might be down.
+
 
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
