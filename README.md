@@ -90,43 +90,6 @@
 - 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
 - ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
 
-
-## 🌀 Hobby Project(s)
- <details>
-  <summary> 
-	  <div align="center">
-	  <strong> 🪽 Cloud Angel 🐙 </strong> 
-	  </div>
-  </summary>
-</details>
-
-<details>
-  <summary> 
-	  <div align="center">
-	  <strong> 🛡️ Soullets (Spixah) 📜 </strong> 
-	  </div>
-  </summary>
-	
-<p align="center"><strong>Frontend</strong></p>
-<div align="center">
-<video src="https://github.com/user-attachments/assets/cab6d78b-5201-4315-b800-72bf583e17fd" width="500" controls></video>
-</div>
-
-<p align="center"><strong>Backend</strong></p>
-<div align="center">
-<video src="https://github.com/user-attachments/assets/7bf7e051-0666-4cd9-91e3-46417f2c49e8" width="500" controls></video>
-</div>
-
-</details>
-
-<details>
-  <summary> 
-	  <div align="center">
-	  <strong> 🦋 Trust Terms 🦋 </strong> 
-	  </div>
-  </summary>
-</details>
-
 ---
 
 
@@ -190,6 +153,45 @@
 <p align="center"> </p>
 <br/>
 <p align="center"> </p>
+
+---
+
+
+## 🌀 Hobby Project(s)
+ <details>
+  <summary> 
+	  <div align="center">
+	  <strong> 🪽 Cloud Angel 🐙 </strong> 
+	  </div>
+  </summary>
+</details>
+
+<details>
+  <summary> 
+	  <div align="center">
+	  <strong> 🛡️ Soullets (Spixah) 📜 </strong> 
+	  </div>
+  </summary>
+	
+<p align="center"><strong>Frontend</strong></p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/cab6d78b-5201-4315-b800-72bf583e17fd" width="500" controls></video>
+</div>
+
+<p align="center"><strong>Backend</strong></p>
+<div align="center">
+<video src="https://github.com/user-attachments/assets/7bf7e051-0666-4cd9-91e3-46417f2c49e8" width="500" controls></video>
+</div>
+
+</details>
+
+<details>
+  <summary> 
+	  <div align="center">
+	  <strong> 🦋 Trust Terms 🦋 </strong> 
+	  </div>
+  </summary>
+</details>
 
 ---
 
