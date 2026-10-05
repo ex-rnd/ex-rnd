@@ -68,8 +68,6 @@
 
 ---
 
-##
----
 
 ## ☀️ Ongoing Project(s)
 <summary><h3 align="center"> ✨ Active </h3></summary> 
