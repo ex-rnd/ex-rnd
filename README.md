@@ -58,6 +58,19 @@
 ##
 ---
 
+## ☀️ Ongoing Paper(s)
+<summary><h3 align="center"> ✨ Hobby Works </h3></summary> 
+
+- 😇 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
+- 🫣 **[Triality Quotient](https://zenodo.org/records/21983262)** 
+
+
+
+---
+
+##
+---
+
 ## ☀️ Ongoing Project(s)
 <summary><h3 align="center"> ✨ Active </h3></summary> 
 
