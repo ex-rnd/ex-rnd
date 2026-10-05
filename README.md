@@ -58,7 +58,7 @@
 ##
 ---
 
-## ☀️ Ongoing Paper(s)
+## ✒️ Ongoing Paper(s)
 <summary><h3 align="center"> 😇 Interest(s) </h3></summary> 
 
 - 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
