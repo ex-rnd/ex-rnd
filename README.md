@@ -124,11 +124,6 @@
 - ❤️ **[Heart Disease Predictor](https://github.com/ex-rnd/Streamlit-Heart-Disease-Predictor)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 
-<summary><h3 align="center"> 🕸️ NextJS Web Applications </h3></summary>
-
-- ✨ **[Awesome Portfolio](https://github.com/ex-rnd/nextjs-portfolio)** - A modern Next.js 16 portfolio built with Tailwind, React, and Shadcn components — featuring a fully‑wired contact form (template only, messages not yet functional).
-
-
 <summary><h3 align="center"> ⚗️ Data Science Projects </h3></summary>
 
 - ✍️ **[Handwritten Digits Recognizer](https://github.com/ex-rnd/MNIST_Dataset_Recognition)** - This project teaches a computer to read handwritten numbers by showing it thousands of digit images and training a neural network to recognize each one accurately.
