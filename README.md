@@ -60,7 +60,6 @@
 <h6>
 > 🔴 Note: If any of the live apps is unreachable or operates weirdly, then the host server might be down.
 </h6>
----
 
 
 ## ☀️ Ongoing Project(s)
