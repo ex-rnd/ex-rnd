@@ -56,13 +56,10 @@
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 
 ##
----
 
 <h6>
 > 🔴 Note: If any of the live apps is unreachable or operates weirdly, then the host server might be down.
 </h6>
-
-##
 ---
 
 
@@ -72,17 +69,6 @@
 - 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
 - 🛒 **[Sample Ecommerce UI Workflows](https://gocart.soullets.com/)** 
 
-
----
-## 🚀 Live App(s)
-
-- 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
-- ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
-- ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
-- 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API, complete with live ngrok tunneling, EJS views, and polling for transaction status.
-- 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
-- ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
-
 ---
 
 
@@ -90,8 +76,6 @@
 
 - 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
 - ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
-
-
 
 ---
 
@@ -102,6 +86,18 @@
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
 - 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
 - ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
+
+---
+
+
+## 🚀 Live App(s)
+
+- 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
+- ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
+- ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
+- 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API, complete with live ngrok tunneling, EJS views, and polling for transaction status.
+- 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
+- ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 ---
 
