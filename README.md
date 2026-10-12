@@ -58,13 +58,12 @@
 ##
 ---
 
+<h6>
+> 🔴 Note: If any of the live apps is unreachable or operates weirdly, then the host server might be down.
+</h6>
 
 ## ☀️ Ongoing Project(s)
 <summary><h3 align="center"> ✨ Active </h3></summary> 
-
-<h6>
-> 🔴 Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
-</h6>
 
 - 🧮 **[Forever Furniture UI](https://foreverfurniture.soullets.com/)** 
 - 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
@@ -75,10 +74,6 @@
 ## 🌠 Live App(s)
 <summary><h3 align="center"> ✨ Deployed App(s) </h3></summary> 
 
-<h6>
-> 🔴 Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
-</h6>
-
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
 - ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
@@ -87,6 +82,19 @@
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
 
 ---
+
+
+## ✒️ Original Paper (s)
+<summary><h3 align="center"> 😇 Interest(s) </h3></summary> 
+
+- 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
+- ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
+
+
+
+---
+
+
 ## 🫡 Original Project (s)
 <summary><h3 align="center"> ✨ Original (s) </h3></summary>
 
