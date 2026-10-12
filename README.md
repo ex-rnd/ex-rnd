@@ -67,7 +67,6 @@
 
 
 ## ☀️ Ongoing Project(s)
-<summary><h3 align="center"> ✨✨✨ </h3></summary> 
 
 - 🧮 **[Forever Furniture UI](https://foreverfurniture.soullets.com/)** 
 - 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
@@ -75,8 +74,7 @@
 
 
 ---
-## 🌠 Live App(s)
-<summary><h3 align="center"> 🚀🚀🚀 </h3></summary> 
+## 🚀 Live App(s)
 
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
@@ -89,7 +87,6 @@
 
 
 ## ✒️ Original Paper (s)
-<summary><h3 align="center"> 😇😇😇 </h3></summary> 
 
 - 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
 - ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
@@ -100,7 +97,6 @@
 
 
 ## 🫡 Original Project (s)
-<summary><h3 align="center"> 👽👽👽 </h3></summary>
 
 - 🌿 **[Field Crop Cast](https://github.com/ex-rnd/FieldCropCast)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
