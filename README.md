@@ -58,16 +58,6 @@
 ##
 ---
 
-## ✒️ Ongoing Paper(s)
-<summary><h3 align="center"> 😇 Interest(s) </h3></summary> 
-
-- 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
-- ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
-
-
-
----
-
 
 ## ☀️ Ongoing Project(s)
 <summary><h3 align="center"> ✨ Active </h3></summary> 
@@ -76,7 +66,7 @@
 > 🔴 Note: If the live apps are not reachable or not operating seamlessly, then the host server might be down.
 </h6>
 
-- 🧮 **[Forever Furniture UI](https://foreverfinds.soullets.com/)** 
+- 🧮 **[Forever Furniture UI](https://foreverfurniture.soullets.com/)** 
 - 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
 - 🛒 **[Sample Ecommerce UI Workflows](https://gocart.soullets.com/)** 
 
