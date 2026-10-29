@@ -62,24 +62,29 @@
 </h6>
 
 
-## ☀️ Ongoing Project(s)
+## 🎷 Ongoing Project(s)
 
-- 🧮 **[Forever Furniture UI](https://foreverfurniture.soullets.com/)** 
-- 🎷 **[Forever Furniture Backend](https://foreverfindsfurniture.soullets.com/)** 
-- 🛒 **[Sample Ecommerce UI Workflows](https://gocart.soullets.com/)** 
+- 🛒 **[Elegant Fashions](https://elegantfashions.soullets.com/)** - A production‑ready full‑stack app with secure authentication, role‑based access, persistent carts, Stripe checkout/webhooks, admin dashboard, and database‑backed order & inventory management, showcasing complete end‑to‑end application engineering.
 
 ---
 
 
 ## 🚀 Deployed Live App(s)
 
-- 🛒 **[Elegant Fashions](https://field-crop-cast.soullets.com/)** - This full-stack fashion e-commerce app provides a production-ready storefront for browsing and purchasing clothing, with secure authentication, persistent shopping carts, customer accounts, Stripe checkout/webhooks, order management, and an admin dashboard. For learning, it demonstrates role-based access, product and image management, secure authentication, complete checkout and payment flows, and database-backed order and inventory operations.
+- 🛒 **[Elegant Fashions](https://elegantfashions.soullets.com/)** - A production‑ready full‑stack app with secure authentication, role‑based access, persistent carts, Stripe checkout/webhooks, admin dashboard, and database‑backed order & inventory management, showcasing complete end‑to‑end application engineering.
 - 🌿 **[Field Crop Cast](https://field-crop-cast.soullets.com/)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
 - ✨ **[Ex-R&D Portfolio](https://ex-rnd.soullets.com/)** - A modern Next.js 16 portfolio with a fully-wired contact form that ships messages straight to my inbox — built, debugged, and deployed.
 - ⚡️ **[Fast MCP Server](https://fast-mcp-server.soullets.com/)** - A secure Next.js 16 + Descope reference app that demonstrates full‑lifecycle agent identity with Dynamic Client Registration, scoped M2M JWTs, and a real MCP tool server with audit‑grade authorization.
 - 💨 **[SureTact Finance](https://suretact.soullets.com/)** - A Node.js Express application that lets users initiate M-Pesa STK Push payments via Safaricom’s Daraja API, complete with live ngrok tunneling, EJS views, and polling for transaction status.
 - 🕵🏽 **[Obesity Detector](https://app-diabetes-condition-predictor.streamlit.app/)** - A Streamlit deep learning web app that leverages personal health metrics (age, gender, height, weight, BMI, and activity level) to predict obesity categories — Normal Weight, Underweight, Overweight, or Obese — with clear results and visual feedback.
 - ❤️ **[Heart Disease Predictor](https://app-heart-disease-predictor.streamlit.app/)** - A Streamlit logistic regression web app that leverages patient health metrics to predict heart disease risk, providing confidence scores and clear risk levels for intuitive assessment.
+
+---
+
+## 🧮 Original Ideas & Paper(s)
+
+- 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
+- ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
 
 ---
 
@@ -143,20 +148,7 @@
 ---
 
 
-## ✒️ Original Paper (s)
 
-- 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
-- ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
-
----
-
-
-## 🫡 Original Project (s)
-
-- 🌿 **[Field Crop Cast](https://github.com/ex-rnd/FieldCropCast)** - A full‑stack Next.js application that helps Kenyan farmers make smarter crop decisions, powered by WeatherAI APIs, Firebase Firestore, Clerk authentication, and M‑Pesa STK Push for subscriptions.
-- 🌠 **[Spotlit Social](https://github.com/ex-rnd/Spotlit_2.0)** - A modern social network demo designed to promote safe, informed, and emotionally aware interactions. It encourages positive behavior, helps users understand their emotional state, and brings knowledge to their fingertips so they engage with more clarity and less assumption.
-- 💸 **[Green Energy App](https://github.com/ex-rnd/GreenEnergy)** - An app to help assist in reducing global emissions by tracking energy usage to enable effective energy management!
-- ❤️ **[Portable Music Mini-Studio](https://github.com/ex-rnd/mini_studio_relic)** - A simple, original, and innovative IoT device to help talented musicians bring their musical ideas to life at the tap of a button. Essentially, a portable music studio.
 
 ---
 
