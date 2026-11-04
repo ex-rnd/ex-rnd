@@ -64,7 +64,7 @@
 
 ## 🎷 Ongoing Project(s)
 
-- 🛒 **[Elegant Fashions](https://elegantfashions.soullets.com/)** - A production‑ready full‑stack app with secure authentication, role‑based access, persistent carts, Stripe checkout/webhooks, admin dashboard, and database‑backed order & inventory management, showcasing complete end‑to‑end application engineering.
+- 🛒 **[Elegant Fashions](https://elegantfashions.soullets.com/)** - A production‑ready full‑stack app with secure authentication, role‑based access, persistent carts, Stripe checkout/webhooks, admin dashboard, and database‑backed order & inventory management, showcasing complete end‑to‑end e-commerce application engineering.
 
 ---
 
