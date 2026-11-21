@@ -81,13 +81,6 @@
 
 ---
 
-## 🧮 Original Ideas & Paper(s)
-
-- 📝 **[Nullotopy Geometry Foundations](https://zenodo.org/records/22647305)** 
-- ✍️ **[Triality Quotient](https://zenodo.org/records/21983262)** 
-
----
-
 
 ## ✴️ Completed Project (s)
 <summary><h3 align="center"> ✨ Agentic AI Projects </h3></summary>
